@@ -1,0 +1,220 @@
+<html lang="en-us">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="apple-touch-icon" href="iphone-icon.png">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+<link rel="stylesheet" type="text/css" href="css/illiad.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="css/print.css" media="print">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="https://code.jquery.com/ui/1.12.0/themes/smoothness/jquery-ui.css">
+<link rel="stylesheet" type="text/css" href="css/cookieconsent.min.css" />
+
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="js/atlasUtility.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.2/moment-with-locales.min.js" integrity="sha256-VrmtNHAdGzjNsUNtWYG55xxE9xDTz4gF63x/prKXKH0=" crossorigin="anonymous"></script>
+<script src="js/webAlerts.js"></script>
+<script src="js/cookieconsent.min.js" data-cfasync="false"></script>
+<script src="js/atlasCookieConsent.js"></script>
+</head>
+<body>
+<div id="header">
+<header id="masthead" class="site-header container" role="banner">
+            <div class="site-branding">
+                <a href="http://tscpl.org/"><img src="https://files.tscpl.org/img/logos/tscpl-wide-300.png" width="300" alt="logo" /></a>
+            </div>
+            <h1>Interlibrary Loan</h1>
+        </header>
+</div>
+
+
+<nav class="main-navbar navbar navbar-expand-lg navbar-dark">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown"
+    aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse my-4 justify-content-center" id="navbarNavDropdown">
+
+    <ul class="navbar-nav">
+
+      <li class="nav-item">
+        <a class="nav-link" href="main.html">
+          <span aria-hidden="true" class="fas fa-home"></span>  Main Menu</a>
+      </li>
+
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarNewRequest" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+           <span aria-hidden="true" class="fas fa-book"></span>   New Requests
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarNewRequest">
+          <a class="dropdown-item" href="LoanRequest.html">Book</a>
+          <a class="dropdown-item" href="GenericRequestDVD.html">Audio/Visual</a>
+		  <a class="dropdown-item" href="ArticleRequest.html">Article</a>
+  		  <!--<a class="dropdown-item" href="<#ACTION action='10' form='23'>">Book Chapter</a>
+          <a class="dropdown-item" href="<#ACTION action='10' form='24'>">Conference Paper</a>
+          <a class="dropdown-item" href="<#ACTION action='10' form='25'>">Patent</a>
+          <a class="dropdown-item" href="<#ACTION action='10' form='26'>">Report</a>
+          <a class="dropdown-item" href="<#ACTION action='10' form='27'>">Thesis</a>
+          <a class="dropdown-item" href="<#ACTION action='10' form='28'>">Standards Document</a>
+          <a class="dropdown-item" href="<#ACTION action='10' form='32'>">Multimedia</a>-->
+       </div>
+      </li>
+
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarOrderHistory" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <span aria-hidden="true" class="fas fa-history"></span>  History
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarOrderHistory">
+          <a class="dropdown-item" href="ViewAllRequests.html"><span aria-hidden="true" class="fas fa-list-alt"></span> All Requests</a>
+          <a class="dropdown-item" href="ViewResubmitCancelledRequests.html"><span aria-hidden="true" class="fas fa-ban"></span> Cancelled Requests</a>
+          <a class="dropdown-item" href="ViewRequestHistory.html"><span aria-hidden="true" class="fas fa-check-circle"></span> Completed Requests</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="ViewNotifications.html">
+            <span class="far fa-bell"></span>  Notification History
+          </a>
+        </div>                  
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link" href="http://ezproxy.tscpl.org/login?url=https://firstsearch.oclc.org/FSIP;dbname=worldcat">
+          <span aria-hidden="true" class="fas fa-search"></span>  Search Now
+        </a>
+      </li>
+
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarMyProfile" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <span aria-hidden="true" class="fas fa-user"></span> Profile
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarMyProfile">
+          <a class="dropdown-item" href="ChangeUserInformation.html">
+            <span aria-hidden="true" class="fas fa-user-edit"></span>  Update Profile
+          </a>
+          <a class="dropdown-item" href="ChangePassword.html">
+            <span aria-hidden="true" class="fas fa-key"></span>  Change Password
+          </a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item disabled" type="text">
+            <span class="far fa-id-badge"></span>  Logged in as <#PARAM name='Username'>
+          </a>
+        </div>
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link" href="<#ACTION action='99'>">
+           <span aria-hidden="true" class="fas fa-sign-out-alt"></span>  Logoff</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<div class="alerts-bar">
+  <div class="container" id="webAlerts"></div>
+</div>
+<div id="status" class="container"><#STATUS></div>
+<div id="content" class="container" role="heading" aria-label="Content">
+		<h2 class="page-header"><span aria-hidden="true" class="fas fa-ban fa-1x"></span> Cancelled Requests</h2>							
+		
+<div class="card requestResult">
+    <div id="request<#DATAROW field='TransactionNumber'>">
+      	<div class="card-body">
+			<div class="row">
+				<div class="col-lg-8 col-md-12">
+					<h4 class="card-title">
+						<a href="<#ACTION action='10' form='72'>&Value=<#DATAROW field='TransactionNumber'>"><#DATAROW field='Title'></a>
+					</h4>
+					<h5 class="card-subtitle text-muted"><#DATAROW field='Author'></h5>
+				</div>
+
+      			<div class="col-lg-4 col-md-12 text-right">
+					<div class="btn-group" role="group" aria-label="Actions for Reqest <#DATAROW field='TransactionNumber'>">
+				  		<a class="btn btn-primary" role="button" href="<#ACTION action='10' form='72'>&Value=<#DATAROW field='TransactionNumber'>"><span class="fas fa-info-circle"></span> &nbsp;Details</a>
+
+				  		<div class="btn-group" role="group">
+							<button id="btnGroupDrop<#DATAROW field='TransactionNumber'>" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								Actions
+							</button>
+							<div class="dropdown-menu" aria-labelledby="btnGroupDrop<#DATAROW field='TransactionNumber'>">
+								<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Edit' disabledValue='disabled'>" href="<#ACTION action='20' form='72'>&Value=<#DATAROW field='TransactionNumber'>" class="menuEdit"><span aria-hidden="true" class="fas fa-edit text-primary"></span>  Edit</a>
+								<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Cancel' disabledValue='disabled'>" href="<#ACTION action='21' type='10'>&Value=<#DATAROW field='TransactionNumber'>" class="menuCancel"><span aria-hidden="true" class="fas fa-ban text-danger"></span>  Cancel Request</a>
+								<div class="<#DATAROW field='RequestType' displayStyle='CompareValue' compareValue='Loan' disabledValue='d-none'>">
+									<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Renew' disabledValue='disabled'>" href="<#ACTION action='11' form='67'>&Value=<#DATAROW field='TransactionNumber'>" class="menuRenew"><span aria-hidden="true" class="fas fa-calendar-alt"></span>  Renew</a>
+								</div>
+								<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Resubmit' disabledValue='disabled'>"	href="<#ACTION action='11' form='71'>&Value=<#DATAROW field='TransactionNumber'>" class="menuResubmit"><span aria-hidden="true" class="fas fa-redo"></span>  Resubmit Request</a>
+								<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Clone' disabledValue='disabled'>" href="<#ACTION action='11' form='110'>&Value=<#DATAROW field='TransactionNumber'>" class="menuClone"><span aria-hidden="true" class="fas fa-copy text-primary"></span>  Clone Request</a>
+								<div class="<#DATAROW field='RequestType' displayStyle='CompareValue' compareValue='Article' disabledValue='d-none'>">
+									<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='ViewPDF' disabledValue='disabled'>" href="<#ACTION action='10' form='75'>&Value=<#DATAROW field='TransactionNumber'>" class="menuViewPdf"><span aria-hidden="true" class="fas fa-eye"></span>  View PDF</a>
+									<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='DeletePDF' disabledValue='disabled'>" href="<#ACTION action='22' type='11' form='72'>&Value=<#DATAROW field='TransactionNumber'>" class="menuDeletePdf"><span aria-hidden="true" class="fas fa-trash-alt"></span>  Delete PDF</a>
+									<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='UndeletePDF' disabledValue='disabled'>" href="<#ACTION action='21' type='11'>&Value=<#DATAROW field='TransactionNumber'>" class="menuUndo"><span class="fa-stack" style="vertical-align: top;">
+											<span class="fas fa-trash-alt fa-stack-1x"></span>
+											<span class="fas fa-ban fa-stack-2x text-danger"></span>	
+										</span>							
+										Undelete
+									</a>
+								</div>
+							</div>
+				  		</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-7 col-md-12">
+					<div class="field text-muted">Transaction Number&nbsp; <span class="field-value font-weight-bold"><#DATAROW field='TransactionNumber'></span></div>
+				</div>
+				<div class="col-lg-5 col-md-12 text-right">
+					<div class="field mb2 text-muted">
+						<span class="field-value font-weight-bold tool-tip">
+							<#DATAROW field='TransactionStatus'>
+							<span class="tool-tip-text">
+								Moved to <#DATAROW field='TransactionStatus'> on 
+								<span class="convert-local" data-iso8601="<#DATAROW field='TransactionDate' display='ISO8601'>"><#DATAROW field='TransactionDate'></span>
+							</span>
+						</span>
+					</div>
+					<div class="field mb2 text-muted">
+						Due Date&nbsp;<span class="field-value font-weight-bold"><#DATAROW field='DueDate'></span>
+					</div>
+				</div>	
+			</div>
+		</div>
+	</div>
+</div>
+
+
+		  
+	</div>
+<div id="content" class="container" role="heading" aria-label="Content"><footer id="colophon" class="site-footer" role="contentinfo">
+    <div class="container">
+        <div class="site-info">
+		<p class="vcard" style="padding-left:0px; margin-bottom:-10px;">
+                <span class="fn">Topeka &amp; Shawnee County Public Library</span><br>
+                <span class="adr"><span class="street-address">1515 SW 10th Ave</span> | <span class="locality">Topeka</span>, <span class="region">Kansas</span> <span class="postal-code">66604</span></span><br>
+          <span class="tel"><a href="tel:7855804400">(785) 580-4400</a></span> | <a href="https://tscpl.org/contact">Contact Us</a> | <a href="https://ask.tscpl.org/form.php?queue_id=2879" target="_blank">Ask A Librarian</a>
+			
+		        <div class="social-links">
+                <strong>Connect with Your Library</strong><br>
+                <a href="https://www.facebook.com/topekalibrary"><img src="https://files.tscpl.org/img/icons/social/facebook_30.png" alt="Facebook" title="Facebook" width="30" height="30" /></a>
+                <a href="https://twitter.com/topekalibrary"><img src="https://files.tscpl.org/img/icons/social/twitter_30.png" alt="Twitter" title="Twitter" width="30" height="30" /></a>
+                <a href="https://instagram.com/topekalibrary/"><img src="https://files.tscpl.org/img/icons/social/instagram_30.png" alt="Instagram" title="Instagram" width="30" height="30" /></a>
+               <a href="https://www.flickr.com/photos/topekalibrary/"><img src="https://files.tscpl.org/img/icons/social/flickr_30.png" alt="Filckr" title="Filckr" width="30" height="30" /></a>
+               <a href="https://youtube.com/topekalibrary"><img src="https://files.tscpl.org/img/icons/social/youtube_30.png" alt="Youtube" title="Youtube" width="30" height="30" /></a>
+                <a href="https://pinterest.com/topekalibrary/"><img src="https://files.tscpl.org/img/icons/social/pinterest_30.png" alt="Pinterest" title="Pinterest" width="30" height="30" /></a>
+               <a href="https://www.linkedin.com/company/topeka-&-shawnee-county-public-library"><img src="https://files.tscpl.org/img/icons/social/linkedin_30.png" alt="LinkedIn" title="LinkedIn" width="30" height="30" /></a>
+                <a href="https://www.goodreads.com/group/show/50549-topeka-shawnee-co-public-library"><img src="https://files.tscpl.org/img/icons/social/goodreads_30.png" alt="Good Reads" title="Good Reads" width="30" height="30" /></a>
+		</div></p>
+
+            
+            
+
+        </div><!-- .site-info -->
+    </div>
+	
+</footer>
+   
+    
+</body>
+</html>
