@@ -149,21 +149,21 @@
 							</button>
 							<div class="dropdown-menu" aria-labelledby="btnGroupDrop<#DATAROW field='TransactionNumber'>">
 								<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Edit' disabledValue='disabled'>" href="<#ACTION action='20' form='72'>&Value=<#DATAROW field='TransactionNumber'>" class="menuEdit"><span aria-hidden="true" class="fas fa-edit text-primary"></span>  Edit</a>
-								<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Cancel' disabledValue='disabled'>" href="<#ACTION action='21' type='10'>&Value=<#DATAROW field='TransactionNumber'>" class="menuCancel"><span aria-hidden="true" class="fas fa-ban text-danger"></span>  Cancel Request</a>
+								<!--<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Cancel' disabledValue='disabled'>" href="<#ACTION action='21' type='10'>&Value=<#DATAROW field='TransactionNumber'>" class="menuCancel"><span aria-hidden="true" class="fas fa-ban text-danger"></span>  Cancel Request</a> -->
 								<div class="<#DATAROW field='RequestType' displayStyle='CompareValue' compareValue='Loan' disabledValue='d-none'>">
 									<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Renew' disabledValue='disabled'>" href="<#ACTION action='11' form='67'>&Value=<#DATAROW field='TransactionNumber'>" class="menuRenew"><span aria-hidden="true" class="fas fa-calendar-alt"></span>  Renew</a>
 								</div>
-								<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Resubmit' disabledValue='disabled'>"	href="<#ACTION action='11' form='71'>&Value=<#DATAROW field='TransactionNumber'>" class="menuResubmit"><span aria-hidden="true" class="fas fa-redo"></span>  Resubmit Request</a>
+								<!--<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Resubmit' disabledValue='disabled'>"	href="<#ACTION action='11' form='71'>&Value=<#DATAROW field='TransactionNumber'>" class="menuResubmit"><span aria-hidden="true" class="fas fa-redo"></span>  Resubmit Request</a>
 								<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Clone' disabledValue='disabled'>" href="<#ACTION action='11' form='110'>&Value=<#DATAROW field='TransactionNumber'>" class="menuClone"><span aria-hidden="true" class="fas fa-copy text-primary"></span>  Clone Request</a>
-								<div class="<#DATAROW field='RequestType' displayStyle='CompareValue' compareValue='Article' disabledValue='d-none'>">
-									<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='ViewPDF' disabledValue='disabled'>" href="<#ACTION action='10' form='75'>&Value=<#DATAROW field='TransactionNumber'>" class="menuViewPdf"><span aria-hidden="true" class="fas fa-eye"></span>  View PDF</a>
+								--><div class="<#DATAROW field='RequestType' displayStyle='CompareValue' compareValue='Article' disabledValue='d-none'>">
+									<!--<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='ViewPDF' disabledValue='disabled'>" href="<#ACTION action='10' form='75'>&Value=<#DATAROW field='TransactionNumber'>" class="menuViewPdf"><span aria-hidden="true" class="fas fa-eye"></span>  View PDF</a>
 									<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='DeletePDF' disabledValue='disabled'>" href="<#ACTION action='22' type='11' form='72'>&Value=<#DATAROW field='TransactionNumber'>" class="menuDeletePdf"><span aria-hidden="true" class="fas fa-trash-alt"></span>  Delete PDF</a>
 									<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='UndeletePDF' disabledValue='disabled'>" href="<#ACTION action='21' type='11'>&Value=<#DATAROW field='TransactionNumber'>" class="menuUndo"><span class="fa-stack" style="vertical-align: top;">
 											<span class="fas fa-trash-alt fa-stack-1x"></span>
 											<span class="fas fa-ban fa-stack-2x text-danger"></span>	
 										</span>							
-										Undelete
-									</a>
+										Undelete-->
+									
 								</div>
 							</div>
 				  		</div>
@@ -205,9 +205,9 @@
 			<div class="row">
 				<div class="col-lg-8 col-md-12">
 					<h4 class="card-title">
-						<a href="<#ACTION action='10' form='72'>&Value=<#DATAROW field='TransactionNumber'>"><#DATAROW field='Title'></a>
+						<a href="ViewDefaultDetailed.html">DATAROW field='Title'</a>
 					</h4>
-					<h5 class="card-subtitle text-muted"><#DATAROW field='Author'></h5>
+					<h5 class="card-subtitle text-muted">DATAROW field='Author'</h5>
 				</div>
 
       			<div class="col-lg-4 col-md-12 text-right">
@@ -222,43 +222,44 @@
 								<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Edit' disabledValue='disabled'>" href="<#ACTION action='20' form='72'>&Value=<#DATAROW field='TransactionNumber'>" class="menuEdit"><span aria-hidden="true" class="fas fa-edit text-primary"></span>  Edit</a>
 								<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Cancel' disabledValue='disabled'>" href="<#ACTION action='21' type='10'>&Value=<#DATAROW field='TransactionNumber'>" class="menuCancel"><span aria-hidden="true" class="fas fa-ban text-danger"></span>  Cancel Request</a>
 								<div class="<#DATAROW field='RequestType' displayStyle='CompareValue' compareValue='Loan' disabledValue='d-none'>">
-									<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Renew' disabledValue='disabled'>" href="<#ACTION action='11' form='67'>&Value=<#DATAROW field='TransactionNumber'>" class="menuRenew"><span aria-hidden="true" class="fas fa-calendar-alt"></span>  Renew</a>
+									<!--<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Renew' disabledValue='disabled'>" href="<#ACTION action='11' form='67'>&Value=<#DATAROW field='TransactionNumber'>" class="menuRenew"><span aria-hidden="true" class="fas fa-calendar-alt"></span>  Renew</a>-->
 								</div>
-								<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Resubmit' disabledValue='disabled'>"	href="<#ACTION action='11' form='71'>&Value=<#DATAROW field='TransactionNumber'>" class="menuResubmit"><span aria-hidden="true" class="fas fa-redo"></span>  Resubmit Request</a>
-								<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Clone' disabledValue='disabled'>" href="<#ACTION action='11' form='110'>&Value=<#DATAROW field='TransactionNumber'>" class="menuClone"><span aria-hidden="true" class="fas fa-copy text-primary"></span>  Clone Request</a>
-								<div class="<#DATAROW field='RequestType' displayStyle='CompareValue' compareValue='Article' disabledValue='d-none'>">
-									<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='ViewPDF' disabledValue='disabled'>" href="<#ACTION action='10' form='75'>&Value=<#DATAROW field='TransactionNumber'>" class="menuViewPdf"><span aria-hidden="true" class="fas fa-eye"></span>  View PDF</a>
+								<!--<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Resubmit' disabledValue='disabled'>"	href="<#ACTION action='11' form='71'>&Value=<#DATAROW field='TransactionNumber'>" class="menuResubmit"><span aria-hidden="true" class="fas fa-redo"></span>  Resubmit Request</a>
+								<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Clone' disabledValue='disabled'>" href="<#ACTION action='11' form='110'>&Value=<#DATAROW field='TransactionNumber'>" class="menuClone"><span aria-hidden="true" class="fas fa-copy text-primary"></span>  Clone Request</a>-->
+									<div class="<#DATAROW field='RequestType' displayStyle='CompareValue' compareValue='Article' disabledValue='d-none'>">
+									<!--<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='ViewPDF' disabledValue='disabled'>" href="<#ACTION action='10' form='75'>&Value=<#DATAROW field='TransactionNumber'>" class="menuViewPdf"><span aria-hidden="true" class="fas fa-eye"></span>  View PDF</a>
 									<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='DeletePDF' disabledValue='disabled'>" href="<#ACTION action='22' type='11' form='72'>&Value=<#DATAROW field='TransactionNumber'>" class="menuDeletePdf"><span aria-hidden="true" class="fas fa-trash-alt"></span>  Delete PDF</a>
 									<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='UndeletePDF' disabledValue='disabled'>" href="<#ACTION action='21' type='11'>&Value=<#DATAROW field='TransactionNumber'>" class="menuUndo"><span class="fa-stack" style="vertical-align: top;">
 											<span class="fas fa-trash-alt fa-stack-1x"></span>
-											<span class="fas fa-ban fa-stack-2x text-danger"></span>	
+											<span class="fas fa-ban fa-stack-2x text-danger"></span>
 										</span>							
-										Undelete
-									</a>
+										Undelete-->	
+									</a>	
 								</div>
 							</div>
 				  		</div>
 					</div>
 				</div>
 			</div>
-			<div class="row">
+				<div class="row">
 				<div class="col-lg-7 col-md-12">
-					<div class="field text-muted">Transaction Number&nbsp; <span class="field-value font-weight-bold"><#DATAROW field='TransactionNumber'></span></div>
+					<div class="field text-muted">Transaction Number&nbsp; <span class="field-value font-weight-bold">DATAROW field='TransactionNumber'</span></div>
 				</div>
-				<div class="col-lg-5 col-md-12 text-right">
+					<div class="col-lg-5 col-md-12 text-right">
 					<div class="field mb2 text-muted">
 						<span class="field-value font-weight-bold tool-tip">
-							<#DATAROW field='TransactionStatus'>
+							DATAROW field='TransactionStatus'
 							<span class="tool-tip-text">
-								Moved to <#DATAROW field='TransactionStatus'> on 
-								<span class="convert-local" data-iso8601="<#DATAROW field='TransactionDate' display='ISO8601'>"><#DATAROW field='TransactionDate'></span>
+								Moved to DATAROW field='TransactionStatus' on 
+								<span class="convert-local" data-iso8601="<#DATAROW field='TransactionDate' display='ISO8601'>">DATAROW field='TransactionDate'</span>
 							</span>
 						</span>
 					</div>
-					<div class="field mb2 text-muted">
-						Due Date&nbsp;<span class="field-value font-weight-bold"><#DATAROW field='DueDate'></span>
+					<div class="field mb2 text-muted">Due Date&nbsp;<span class="field-value font-weight-bold">DATAROW field='DueDate'</span>
 					</div>
-				</div>	
+						
+					</div>	
+				</div>
 			</div>
 		</div>
 	</div>
@@ -266,10 +267,9 @@
 
         </div>
         <footer id="colophon" class="site-footer" role="contentinfo">
-
     <div class="container">
         <div class="site-info">
-		<p class="vcard">
+		<p class="vcard" style="padding-left:0px; margin-bottom:-10px;">
                 <span class="fn">Topeka &amp; Shawnee County Public Library</span><br>
                 <span class="adr"><span class="street-address">1515 SW 10th Ave</span> | <span class="locality">Topeka</span>, <span class="region">Kansas</span> <span class="postal-code">66604</span></span><br>
           <span class="tel"><a href="tel:7855804400">(785) 580-4400</a></span> | <a href="https://tscpl.org/contact">Contact Us</a> | <a href="https://ask.tscpl.org/form.php?queue_id=2879" target="_blank">Ask A Librarian</a>
@@ -291,8 +291,8 @@
 
         </div><!-- .site-info -->
     </div>
-</footer
+</footer>
    
-    </div>
+    
 </body>
 </html>
