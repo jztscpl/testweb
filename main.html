@@ -116,7 +116,7 @@
   <div class="container" id="webAlerts"></div>
 </div>
 <div id="status" class="container"><#STATUS></div>
-<!--This is the main Content-->
+<!--This is the start of main Content-->
 <div id="content" class="container" role="heading" aria-label="Content">
 
      <!--   <div id="main-electronic-delivery">
@@ -133,8 +133,9 @@
       	<div class="card-body">
 			<div class="row">
 				<div class="col-lg-8 col-md-12">
+				
 					<h4 class="card-title">
-						<a href="<#ACTION action='10' form='72'>&Value=<#DATAROW field='TransactionNumber'>"><#DATAROW field='Title'></a>
+						<a href="ViewDefaultDetailed.html"><#DATAROW field='Title'></a>
 					</h4>
 					<h5 class="card-subtitle text-muted"><#DATAROW field='Author'></h5>
 				</div>
@@ -148,7 +149,7 @@
 								Actions
 							</button>
 							<div class="dropdown-menu" aria-labelledby="btnGroupDrop<#DATAROW field='TransactionNumber'>">
-								<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Edit' disabledValue='disabled'>" href="<#ACTION action='20' form='72'>&Value=<#DATAROW field='TransactionNumber'>" class="menuEdit"><span aria-hidden="true" class="fas fa-edit text-primary"></span>  Edit</a>
+								<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Edit' disabledValue='disabled'>" href="ViewDefaultDetailed.html" class="menuEdit"><span aria-hidden="true" class="fas fa-edit text-primary"></span>  Edit</a>
 								<!--<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Cancel' disabledValue='disabled'>" href="<#ACTION action='21' type='10'>&Value=<#DATAROW field='TransactionNumber'>" class="menuCancel"><span aria-hidden="true" class="fas fa-ban text-danger"></span>  Cancel Request</a> -->
 								<div class="<#DATAROW field='RequestType' displayStyle='CompareValue' compareValue='Loan' disabledValue='d-none'>">
 									<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Renew' disabledValue='disabled'>" href="<#ACTION action='11' form='67'>&Value=<#DATAROW field='TransactionNumber'>" class="menuRenew"><span aria-hidden="true" class="fas fa-calendar-alt"></span>  Renew</a>
@@ -212,15 +213,15 @@
 
       			<div class="col-lg-4 col-md-12 text-right">
 					<div class="btn-group" role="group" aria-label="Actions for Reqest <#DATAROW field='TransactionNumber'>">
-				  		<a class="btn btn-primary" role="button" href="<#ACTION action='10' form='72'>&Value=<#DATAROW field='TransactionNumber'>"><span class="fas fa-info-circle"></span> &nbsp;Details</a>
+				  		<a class="btn btn-primary" role="button" href="ViewDefaultDetailed.html"><span class="fas fa-info-circle"></span> &nbsp;Details</a>
 
 				  		<div class="btn-group" role="group">
 							<button id="btnGroupDrop<#DATAROW field='TransactionNumber'>" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 								Actions
 							</button>
 							<div class="dropdown-menu" aria-labelledby="btnGroupDrop<#DATAROW field='TransactionNumber'>">
-								<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Edit' disabledValue='disabled'>" href="<#ACTION action='20' form='72'>&Value=<#DATAROW field='TransactionNumber'>" class="menuEdit"><span aria-hidden="true" class="fas fa-edit text-primary"></span>  Edit</a>
-								<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Cancel' disabledValue='disabled'>" href="<#ACTION action='21' type='10'>&Value=<#DATAROW field='TransactionNumber'>" class="menuCancel"><span aria-hidden="true" class="fas fa-ban text-danger"></span>  Cancel Request</a>
+								<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Edit' disabledValue='disabled'>" href="ViewDefaultDetailed.html"><span aria-hidden="true" class="fas fa-edit text-primary"></span>  Edit</a>
+								<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Cancel' disabledValue='disabled'>" href="main.html" class="menuCancel"><span aria-hidden="true" class="fas fa-ban text-danger"></span>  Cancel Request</a>
 								<div class="<#DATAROW field='RequestType' displayStyle='CompareValue' compareValue='Loan' disabledValue='d-none'>">
 									<!--<a class="dropdown-item btn btn-light <#DATAROW field='RequestActionAllowed' name='Renew' disabledValue='disabled'>" href="<#ACTION action='11' form='67'>&Value=<#DATAROW field='TransactionNumber'>" class="menuRenew"><span aria-hidden="true" class="fas fa-calendar-alt"></span>  Renew</a>-->
 								</div>
@@ -266,6 +267,7 @@
 </div>
 
         </div>
+		<!-- End of Main Content -->
         <footer id="colophon" class="site-footer" role="contentinfo">
     <div class="container">
         <div class="site-info">
@@ -291,6 +293,7 @@
 
         </div><!-- .site-info -->
     </div>
+	
 </footer>
    
     
