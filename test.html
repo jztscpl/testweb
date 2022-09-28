@@ -25,19 +25,19 @@ function loadDoc() {
       myFunction(this);
     }
   };
-  xhttp.open("GET", "room-bookings.xml", true);
+  xhttp.open("GET", "https://events.tscpl.org/feeds?data=eyJmZWVkVHlwZSI6InJzcyIsImZpbHRlcnMiOnsibG9jYXRpb24iOlsiYWxsIl0sImFnZXMiOlsiYWxsIl0sInR5cGVzIjpbIlRlY2hub2xvZ3kiXSwidGFncyI6W10sInRlcm0iOiIiLCJkYXlzIjoxfX0=", true);
   xhttp.send();
 }
 function myFunction(xml) {
   var i;
   var xmlDoc = xml.responseXML;
   var table="<tr><th>Artist</th><th>Title</th></tr>";
-  var x = xmlDoc.getElementsByTagName("result");
+  var x = xmlDoc.getElementsByTagName("item");
   for (i = 0; i <x.length; i++) { 
     table += "<tr><td>" +
-    x[i].getElementsByTagName("booking_start")[0].childNodes[0].nodeValue +
+    x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue +
     "</td><td>" +
-    x[i].getElementsByTagName("booking_title")[0].childNodes[0].nodeValue +
+    x[i].getElementsByTagName("description")[0].childNodes[0].nodeValue +
     "</td></tr>";
   }
   document.getElementById("demo").innerHTML = table;
