@@ -1,183 +1,410 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<root>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">9:00am</start_time>
-    <end_time name="End time">9:00pm</end_time>
-    <room_id name="Room">Alice C. Sabatini Gallery 110AB</room_id>
-    <booking_title name="Display name">Forming Fiber</booking_title>
-    <group_name name="Group name"></group_name>
-    <event_creator name="Creator"></event_creator>
-  </result>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">9:00am</start_time>
-    <end_time name="End time">12:30pm</end_time>
-    <room_id name="Room">Marvin Auditorium 101AB</room_id>
-    <booking_title name="Display name">KPERS 101 Employer Workshop</booking_title>
-    <group_name name="Group name">KPERS</group_name>
-    <event_creator name="Creator"></event_creator>
-  </result>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">9:30am</start_time>
-    <end_time name="End time">12:30pm</end_time>
-    <room_id name="Room">Menninger Room 206</room_id>
-    <booking_title name="Display name">The Write Stuff</booking_title>
-    <group_name name="Group name">The Write Stuff writing group</group_name>
-    <event_creator name="Creator">Bonnie Cuevas</event_creator>
-  </result>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">10:00am</start_time>
-    <end_time name="End time">10:30am</end_time>
-    <room_id name="Room">Story Zone 121C west</room_id>
-    <booking_title name="Display name">Preschool Storytime</booking_title>
-    <group_name name="Group name"></group_name>
-    <event_creator name="Creator"></event_creator>
-  </result>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">10:00am</start_time>
-    <end_time name="End time">4:30pm</end_time>
-    <room_id name="Room">Perkins Room 201</room_id>
-    <booking_title name="Display name">Tuesday Cross Stitchers</booking_title>
-    <group_name name="Group name">Tuesday Cross Stitchers</group_name>
-    <event_creator name="Creator"></event_creator>
-  </result>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">10:00am</start_time>
-    <end_time name="End time">11:00am</end_time>
-    <room_id name="Room">Hughes Room 205</room_id>
-    <booking_title name="Display name">Event REsources Team Meeting</booking_title>
-    <group_name name="Group name">DS</group_name>
-    <event_creator name="Creator">Shannon Eddings</event_creator>
-  </result>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">11:30am</start_time>
-    <end_time name="End time">1:00pm</end_time>
-    <room_id name="Room">Anton Room 202</room_id>
-    <booking_title name="Display name">Calvary Ladies Lunch</booking_title>
-    <group_name name="Group name">Calvary Lutheran Church</group_name>
-    <event_creator name="Creator">Bonnie Cuevas</event_creator>
-  </result>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">12:00pm</start_time>
-    <end_time name="End time">3:30pm</end_time>
-    <room_id name="Room">1020 Staff Training Room 210</room_id>
-    <booking_title name="Display name">Emerging Library Leaders</booking_title>
-    <group_name name="Group name">HR</group_name>
-    <event_creator name="Creator">Kristin Kelly</event_creator>
-  </result>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">12:00pm</start_time>
-    <end_time name="End time">1:00pm</end_time>
-    <room_id name="Room">Learning Center</room_id>
-    <booking_title name="Display name">Topeka Heartland Sertoma Club Meeting</booking_title>
-    <group_name name="Group name">Topeka Heartland Sertoma Club</group_name>
-    <event_creator name="Creator">Bonnie Cuevas</event_creator>
-  </result>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">1:30pm</start_time>
-    <end_time name="End time">3:30pm</end_time>
-    <room_id name="Room">Hughes Room 205</room_id>
-    <booking_title name="Display name">The Hypnosis group</booking_title>
-    <group_name name="Group name">Mind Body Alchemy</group_name>
-    <event_creator name="Creator"></event_creator>
-  </result>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">2:00pm</start_time>
-    <end_time name="End time">4:00pm</end_time>
-    <room_id name="Room">Menninger Room 206</room_id>
-    <booking_title name="Display name">Management Team Meeting</booking_title>
-    <group_name name="Group name">Admin</group_name>
-    <event_creator name="Creator">Aubrey Conner</event_creator>
-  </result>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">3:00pm</start_time>
-    <end_time name="End time">5:00pm</end_time>
-    <room_id name="Room">The Edge 114</room_id>
-    <booking_title name="Display name">Game ON!</booking_title>
-    <group_name name="Group name"></group_name>
-    <event_creator name="Creator"></event_creator>
-  </result>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">3:15pm</start_time>
-    <end_time name="End time">4:15pm</end_time>
-    <room_id name="Room">Learning Center</room_id>
-    <booking_title name="Display name">After School Snack</booking_title>
-    <group_name name="Group name"></group_name>
-    <event_creator name="Creator"></event_creator>
-  </result>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">3:30pm</start_time>
-    <end_time name="End time">7:00pm</end_time>
-    <room_id name="Room">Anton Room 202</room_id>
-    <booking_title name="Display name">Ward Captains-Questions answered?</booking_title>
-    <group_name name="Group name">Ward Captains</group_name>
-    <event_creator name="Creator"></event_creator>
-  </result>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">5:30pm</start_time>
-    <end_time name="End time">7:00pm</end_time>
-    <room_id name="Room">Hughes Room 205</room_id>
-    <booking_title name="Display name">Topeka Literacy Council Board Meeting</booking_title>
-    <group_name name="Group name">Topeka Literacy Council</group_name>
-    <event_creator name="Creator"></event_creator>
-  </result>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">6:00pm</start_time>
-    <end_time name="End time">7:00pm</end_time>
-    <room_id name="Room">Menninger Room 206</room_id>
-    <booking_title name="Display name">Kansas Capital Quilt Guild Board meeting</booking_title>
-    <group_name name="Group name">Kansas Capital Quilt Guild</group_name>
-    <event_creator name="Creator"></event_creator>
-  </result>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">6:00pm</start_time>
-    <end_time name="End time">9:00pm</end_time>
-    <room_id name="Room">Claire's Sunroom</room_id>
-    <booking_title name="Display name">Omni Circle</booking_title>
-    <group_name name="Group name">Omni Circle EBB</group_name>
-    <event_creator name="Creator">Meredith Snepp</event_creator>
-  </result>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">6:00pm</start_time>
-    <end_time name="End time">8:00pm</end_time>
-    <room_id name="Room">Perkins Room 201</room_id>
-    <booking_title name="Display name">Mosaic Cluster 4</booking_title>
-    <group_name name="Group name">Mosaic Cluster 4</group_name>
-    <event_creator name="Creator"></event_creator>
-  </result>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">6:30pm</start_time>
-    <end_time name="End time">8:30pm</end_time>
-    <room_id name="Room">Learning Center</room_id>
-    <booking_title name="Display name">CJ Box Overflow</booking_title>
-    <group_name name="Group name">CJ Box Overflow</group_name>
-    <event_creator name="Creator">Miranda Ericsson</event_creator>
-  </result>
-  <result>
-    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
-    <start_time name="Start time">7:00pm</start_time>
-    <end_time name="End time">8:30pm</end_time>
-    <room_id name="Room">Marvin Auditorium 101ABC</room_id>
-    <booking_title name="Display name">Meet Mystery Crime Author C.J. Box</booking_title>
-    <group_name name="Group name"></group_name>
-    <event_creator name="Creator"></event_creator>
-  </result>
-</root>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>RSS Feed for Topeka &amp; Shawnee County Public Library</title>
+    <link>https://tscpl.libnet.info/</link>
+    <description>Event Feed</description>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://tscpl.libnet.info/rss" type="application/rss+xml" rel="self"/>
+    <language>en-US</language>
+    <copyright>Copyright 2022 - Communico</copyright>
+    <pubDate>Wed, 28 Sep 2022 21:06:35 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Sep 2022 21:06:35 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <item>
+      <title><![CDATA[Internet Introduction ]]></title>
+      <link>https://tscpl.libnet.info/event/6855586</link>
+      <description><![CDATA[Wednesday, September 28 2022 10:00am - 11:00am 
+ Learn about browsers, search engines and how to navigate websites to find information online. Share this with a friend or family member who needs help with the internet. Call 785-580-4607 to register.]]></description>
+      <content:encoded><![CDATA[Learn about browsers, search engines and how to navigate websites to find information online. Share this with a friend or family member who needs help with the internet. Call 785-580-4607 to register.]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/6855586</guid>
+      <pubDate>Wed, 28 Sep 2022 10:00:00 +0000</pubDate>
+      <author>sschawo@tscpl.org (Shari Schawo)</author>
+    </item>
+    <item>
+      <title><![CDATA[Computer & Gadget Help September]]></title>
+      <link>https://tscpl.libnet.info/event/7190698</link>
+      <description><![CDATA[Wednesday, September 28 2022 10:00am - 11:00am 
+ Book 30 min in-person or online appointment for help with tech questions, beginning computer skills, digital library, ebooks & mobile devices. Click event title for link to available times this week.
+]]></description>
+      <content:encoded><![CDATA[Book 30 min in-person or online appointment for help with tech questions, beginning computer skills, digital library, ebooks & mobile devices. Click event title for link to available times this week.
+]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7190698</guid>
+      <pubDate>Wed, 28 Sep 2022 10:00:00 +0000</pubDate>
+      <author>sschawo@tscpl.org (Shari Schawo)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to Cricut]]></title>
+      <link>https://tscpl.libnet.info/event/7254501</link>
+      <description><![CDATA[Wednesday, September 28 2022 11:00am - 12:00pm 
+ Learn the basics of how to use Cricut Design Space Software to create a project & best practices on cutting vinyl & cardstock with the Cricut. Complete this class to use the Cricut independently. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to use Cricut Design Space Software to create a project & best practices on cutting vinyl & cardstock with the Cricut. Complete this class to use the Cricut independently. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7254501</guid>
+      <pubDate>Wed, 28 Sep 2022 11:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Sound Factory]]></title>
+      <link>https://tscpl.libnet.info/event/7248547</link>
+      <description><![CDATA[Wednesday, September 28 2022 3:00pm - 5:00pm 
+ Teens are invited to join us to use the new Recording Studio Space to explore the art of producing music. You're welcome to bring your own instruments, expertise, or even just your interest!]]></description>
+      <content:encoded><![CDATA[Teens are invited to join us to use the new Recording Studio Space to explore the art of producing music. You're welcome to bring your own instruments, expertise, or even just your interest!]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7248547</guid>
+      <pubDate>Wed, 28 Sep 2022 15:00:00 +0000</pubDate>
+      <author>areed@tscpl.org (Angie Reed)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to 3D Printing]]></title>
+      <link>https://tscpl.libnet.info/event/7208071</link>
+      <description><![CDATA[Wednesday, September 28 2022 6:00pm - 7:00pm 
+ Learn the basics of how to use a 3D printer including how to find project files online, convert them into G-code, and print them on library's Ultimaker 3 printer. Class required before using printer. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to use a 3D printer including how to find project files online, convert them into G-code, and print them on library's Ultimaker 3 printer. Class required before using printer. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7208071</guid>
+      <pubDate>Wed, 28 Sep 2022 18:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Email for Beginners ]]></title>
+      <link>https://tscpl.libnet.info/event/6855621</link>
+      <description><![CDATA[Thursday, September 29 2022 10:00am - 11:00am 
+ Using Google's free email or Gmail learn how to log into email, open, delete, reply to & forward email messages. Please call 785-580-4607 to register.]]></description>
+      <content:encoded><![CDATA[Using Google's free email or Gmail learn how to log into email, open, delete, reply to & forward email messages. Please call 785-580-4607 to register.]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/6855621</guid>
+      <pubDate>Thu, 29 Sep 2022 10:00:00 +0000</pubDate>
+      <author>sschawo@tscpl.org (Shari Schawo)</author>
+    </item>
+    <item>
+      <title><![CDATA[Computer & Gadget Help September]]></title>
+      <link>https://tscpl.libnet.info/event/7190699</link>
+      <description><![CDATA[Thursday, September 29 2022 10:00am - 11:00am 
+ Book 30 min in-person or online appointment for help with tech questions, beginning computer skills, digital library, ebooks & mobile devices. Click event title for link to available times this week.
+]]></description>
+      <content:encoded><![CDATA[Book 30 min in-person or online appointment for help with tech questions, beginning computer skills, digital library, ebooks & mobile devices. Click event title for link to available times this week.
+]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7190699</guid>
+      <pubDate>Thu, 29 Sep 2022 10:00:00 +0000</pubDate>
+      <author>sschawo@tscpl.org (Shari Schawo)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to Cricut]]></title>
+      <link>https://tscpl.libnet.info/event/7254502</link>
+      <description><![CDATA[Thursday, September 29 2022 6:00pm - 7:00pm 
+ Learn the basics of how to use Cricut Design Space Software to create a project & best practices on cutting vinyl & cardstock with the Cricut. Complete this class to use the Cricut independently. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to use Cricut Design Space Software to create a project & best practices on cutting vinyl & cardstock with the Cricut. Complete this class to use the Cricut independently. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7254502</guid>
+      <pubDate>Thu, 29 Sep 2022 18:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Computer & Gadget Help September]]></title>
+      <link>https://tscpl.libnet.info/event/7190700</link>
+      <description><![CDATA[Friday, September 30 2022 10:00am - 11:00am 
+ Book 30 min in-person or online appointment for help with tech questions, beginning computer skills, digital library, ebooks & mobile devices. Click event title for link to available times this week.
+]]></description>
+      <content:encoded><![CDATA[Book 30 min in-person or online appointment for help with tech questions, beginning computer skills, digital library, ebooks & mobile devices. Click event title for link to available times this week.
+]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7190700</guid>
+      <pubDate>Fri, 30 Sep 2022 10:00:00 +0000</pubDate>
+      <author>sschawo@tscpl.org (Shari Schawo)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to Audio & Video Recording]]></title>
+      <link>https://tscpl.libnet.info/event/7255099</link>
+      <description><![CDATA[Friday, September 30 2022 5:00pm - 6:00pm 
+ Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7255099</guid>
+      <pubDate>Fri, 30 Sep 2022 17:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Beginners Computer Navigation ]]></title>
+      <link>https://tscpl.libnet.info/event/6855505</link>
+      <description><![CDATA[Monday, October 03 2022 10:00am - 11:00am 
+ Learn how to use a mouse, navigate a Windows 10 desktop, find & open apps & files. Share this with a friend or family member who needs help learning to use a computer. Call 785-580-4607 to register.]]></description>
+      <content:encoded><![CDATA[Learn how to use a mouse, navigate a Windows 10 desktop, find & open apps & files. Share this with a friend or family member who needs help learning to use a computer. Call 785-580-4607 to register.]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/6855505</guid>
+      <pubDate>Mon, 03 Oct 2022 10:00:00 +0000</pubDate>
+      <author>sschawo@tscpl.org (Shari Schawo)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to Audio & Video Recording]]></title>
+      <link>https://tscpl.libnet.info/event/7254308</link>
+      <description><![CDATA[Tuesday, October 04 2022 4:00pm - 5:00pm 
+ Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7254308</guid>
+      <pubDate>Tue, 04 Oct 2022 16:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Internet Introduction ]]></title>
+      <link>https://tscpl.libnet.info/event/6855587</link>
+      <description><![CDATA[Wednesday, October 05 2022 10:00am - 11:00am 
+ Learn about browsers, search engines and how to navigate websites to find information online. Share this with a friend or family member who needs help with the internet. Call 785-580-4607 to register.]]></description>
+      <content:encoded><![CDATA[Learn about browsers, search engines and how to navigate websites to find information online. Share this with a friend or family member who needs help with the internet. Call 785-580-4607 to register.]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/6855587</guid>
+      <pubDate>Wed, 05 Oct 2022 10:00:00 +0000</pubDate>
+      <author>sschawo@tscpl.org (Shari Schawo)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to Audio & Video Recording]]></title>
+      <link>https://tscpl.libnet.info/event/7254309</link>
+      <description><![CDATA[Wednesday, October 05 2022 10:00am - 11:00am 
+ Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7254309</guid>
+      <pubDate>Wed, 05 Oct 2022 10:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Sound Factory]]></title>
+      <link>https://tscpl.libnet.info/event/7248548</link>
+      <description><![CDATA[Wednesday, October 05 2022 3:00pm - 5:00pm 
+ Teens are invited to join us to use the new Recording Studio Space to explore the art of producing music. You're welcome to bring your own instruments, expertise, or even just your interest!]]></description>
+      <content:encoded><![CDATA[Teens are invited to join us to use the new Recording Studio Space to explore the art of producing music. You're welcome to bring your own instruments, expertise, or even just your interest!]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7248548</guid>
+      <pubDate>Wed, 05 Oct 2022 15:00:00 +0000</pubDate>
+      <author>areed@tscpl.org (Angie Reed)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to Cricut]]></title>
+      <link>https://tscpl.libnet.info/event/7254503</link>
+      <description><![CDATA[Wednesday, October 05 2022 4:00pm - 5:00pm 
+ Learn the basics of how to use Cricut Design Space Software to create a project & best practices on cutting vinyl & cardstock with the Cricut. Complete this class to use the Cricut independently. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to use Cricut Design Space Software to create a project & best practices on cutting vinyl & cardstock with the Cricut. Complete this class to use the Cricut independently. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7254503</guid>
+      <pubDate>Wed, 05 Oct 2022 16:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to 3D Printing]]></title>
+      <link>https://tscpl.libnet.info/event/7254974</link>
+      <description><![CDATA[Wednesday, October 05 2022 6:00pm - 7:00pm 
+ Learn the basics of how to use a 3D printer including how to find project files online, convert them into G-code, and print them on library's Ultimaker 3 printer. Class required before using printer. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to use a 3D printer including how to find project files online, convert them into G-code, and print them on library's Ultimaker 3 printer. Class required before using printer. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7254974</guid>
+      <pubDate>Wed, 05 Oct 2022 18:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to Cricut copy]]></title>
+      <link>https://tscpl.libnet.info/event/7304931</link>
+      <description><![CDATA[Thursday, October 06 2022 6:00pm - 7:00pm 
+ Learn the basics of how to use Cricut Design Space Software to create a project & best practices on cutting vinyl & cardstock with the Cricut. Complete this class to use the Cricut independently. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to use Cricut Design Space Software to create a project & best practices on cutting vinyl & cardstock with the Cricut. Complete this class to use the Cricut independently. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7304931</guid>
+      <pubDate>Thu, 06 Oct 2022 18:00:00 +0000</pubDate>
+      <author>gpark@tscpl.org (Ginger Park)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to Audio & Video Recording]]></title>
+      <link>https://tscpl.libnet.info/event/7255100</link>
+      <description><![CDATA[Sunday, October 09 2022 4:00pm - 5:00pm 
+ Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7255100</guid>
+      <pubDate>Sun, 09 Oct 2022 16:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to 3D Printing]]></title>
+      <link>https://tscpl.libnet.info/event/7254975</link>
+      <description><![CDATA[Monday, October 10 2022 3:00pm - 4:00pm 
+ Learn the basics of how to use a 3D printer including how to find project files online, convert them into G-code, and print them on library's Ultimaker 3 printer. Class required before using printer. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to use a 3D printer including how to find project files online, convert them into G-code, and print them on library's Ultimaker 3 printer. Class required before using printer. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7254975</guid>
+      <pubDate>Mon, 10 Oct 2022 15:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to Audio & Video Recording]]></title>
+      <link>https://tscpl.libnet.info/event/7254310</link>
+      <description><![CDATA[Monday, October 10 2022 4:00pm - 5:00pm 
+ Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7254310</guid>
+      <pubDate>Mon, 10 Oct 2022 16:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to 3D Printing]]></title>
+      <link>https://tscpl.libnet.info/event/7254976</link>
+      <description><![CDATA[Tuesday, October 11 2022 4:00pm - 5:00pm 
+ Learn the basics of how to use a 3D printer including how to find project files online, convert them into G-code, and print them on library's Ultimaker 3 printer. Class required before using printer. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to use a 3D printer including how to find project files online, convert them into G-code, and print them on library's Ultimaker 3 printer. Class required before using printer. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7254976</guid>
+      <pubDate>Tue, 11 Oct 2022 16:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to Audio & Video Recording]]></title>
+      <link>https://tscpl.libnet.info/event/7277276</link>
+      <description><![CDATA[Wednesday, October 12 2022 12:00pm - 1:00pm 
+ Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7277276</guid>
+      <pubDate>Wed, 12 Oct 2022 12:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Sound Factory]]></title>
+      <link>https://tscpl.libnet.info/event/7248549</link>
+      <description><![CDATA[Wednesday, October 12 2022 3:00pm - 5:00pm 
+ Teens are invited to join us to use the new Recording Studio Space to explore the art of producing music. You're welcome to bring your own instruments, expertise, or even just your interest!]]></description>
+      <content:encoded><![CDATA[Teens are invited to join us to use the new Recording Studio Space to explore the art of producing music. You're welcome to bring your own instruments, expertise, or even just your interest!]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7248549</guid>
+      <pubDate>Wed, 12 Oct 2022 15:00:00 +0000</pubDate>
+      <author>areed@tscpl.org (Angie Reed)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to Audio & Video Recording]]></title>
+      <link>https://tscpl.libnet.info/event/7277277</link>
+      <description><![CDATA[Thursday, October 13 2022 6:00pm - 7:00pm 
+ Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7277277</guid>
+      <pubDate>Thu, 13 Oct 2022 18:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to Cricut]]></title>
+      <link>https://tscpl.libnet.info/event/7254505</link>
+      <description><![CDATA[Saturday, October 15 2022 10:00am - 11:00am 
+ Learn the basics of how to use Cricut Design Space Software to create a project & best practices on cutting vinyl & cardstock with the Cricut. Complete this class to use the Cricut independently. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to use Cricut Design Space Software to create a project & best practices on cutting vinyl & cardstock with the Cricut. Complete this class to use the Cricut independently. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7254505</guid>
+      <pubDate>Sat, 15 Oct 2022 10:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to Audio & Video Recording]]></title>
+      <link>https://tscpl.libnet.info/event/7254312</link>
+      <description><![CDATA[Sunday, October 16 2022 2:00pm - 3:00pm 
+ Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7254312</guid>
+      <pubDate>Sun, 16 Oct 2022 14:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Beginners Computer Navigation ]]></title>
+      <link>https://tscpl.libnet.info/event/6855507</link>
+      <description><![CDATA[Monday, October 17 2022 10:00am - 11:00am 
+ Learn how to use a mouse, navigate a Windows 10 desktop, find & open apps & files. Share this with a friend or family member who needs help learning to use a computer. Call 785-580-4607 to register.]]></description>
+      <content:encoded><![CDATA[Learn how to use a mouse, navigate a Windows 10 desktop, find & open apps & files. Share this with a friend or family member who needs help learning to use a computer. Call 785-580-4607 to register.]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/6855507</guid>
+      <pubDate>Mon, 17 Oct 2022 10:00:00 +0000</pubDate>
+      <author>sschawo@tscpl.org (Shari Schawo)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to Audio & Video Recording]]></title>
+      <link>https://tscpl.libnet.info/event/7277278</link>
+      <description><![CDATA[Monday, October 17 2022 4:00pm - 5:00pm 
+ Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7277278</guid>
+      <pubDate>Mon, 17 Oct 2022 16:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to Cricut]]></title>
+      <link>https://tscpl.libnet.info/event/7254506</link>
+      <description><![CDATA[Tuesday, October 18 2022 2:00pm - 3:00pm 
+ Learn the basics of how to use Cricut Design Space Software to create a project & best practices on cutting vinyl & cardstock with the Cricut. Complete this class to use the Cricut independently. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to use Cricut Design Space Software to create a project & best practices on cutting vinyl & cardstock with the Cricut. Complete this class to use the Cricut independently. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7254506</guid>
+      <pubDate>Tue, 18 Oct 2022 14:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Internet Introduction ]]></title>
+      <link>https://tscpl.libnet.info/event/6855589</link>
+      <description><![CDATA[Wednesday, October 19 2022 10:00am - 11:00am 
+ Learn about browsers, search engines and how to navigate websites to find information online. Share this with a friend or family member who needs help with the internet. Call 785-580-4607 to register.]]></description>
+      <content:encoded><![CDATA[Learn about browsers, search engines and how to navigate websites to find information online. Share this with a friend or family member who needs help with the internet. Call 785-580-4607 to register.]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/6855589</guid>
+      <pubDate>Wed, 19 Oct 2022 10:00:00 +0000</pubDate>
+      <author>sschawo@tscpl.org (Shari Schawo)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to Audio & Video Recording]]></title>
+      <link>https://tscpl.libnet.info/event/7277281</link>
+      <description><![CDATA[Wednesday, October 19 2022 10:00am - 11:00am 
+ Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7277281</guid>
+      <pubDate>Wed, 19 Oct 2022 10:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Sound Factory]]></title>
+      <link>https://tscpl.libnet.info/event/7248550</link>
+      <description><![CDATA[Wednesday, October 19 2022 3:00pm - 5:00pm 
+ Teens are invited to join us to use the new Recording Studio Space to explore the art of producing music. You're welcome to bring your own instruments, expertise, or even just your interest!]]></description>
+      <content:encoded><![CDATA[Teens are invited to join us to use the new Recording Studio Space to explore the art of producing music. You're welcome to bring your own instruments, expertise, or even just your interest!]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7248550</guid>
+      <pubDate>Wed, 19 Oct 2022 15:00:00 +0000</pubDate>
+      <author>areed@tscpl.org (Angie Reed)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to 3D Printing]]></title>
+      <link>https://tscpl.libnet.info/event/7254977</link>
+      <description><![CDATA[Wednesday, October 19 2022 6:00pm - 7:00pm 
+ Learn the basics of how to use a 3D printer including how to find project files online, convert them into G-code, and print them on library's Ultimaker 3 printer. Class required before using printer. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to use a 3D printer including how to find project files online, convert them into G-code, and print them on library's Ultimaker 3 printer. Class required before using printer. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7254977</guid>
+      <pubDate>Wed, 19 Oct 2022 18:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to Cricut]]></title>
+      <link>https://tscpl.libnet.info/event/7254507</link>
+      <description><![CDATA[Thursday, October 20 2022 6:00pm - 7:00pm 
+ Learn the basics of how to use Cricut Design Space Software to create a project & best practices on cutting vinyl & cardstock with the Cricut. Complete this class to use the Cricut independently. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to use Cricut Design Space Software to create a project & best practices on cutting vinyl & cardstock with the Cricut. Complete this class to use the Cricut independently. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7254507</guid>
+      <pubDate>Thu, 20 Oct 2022 18:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to Audio & Video Recording]]></title>
+      <link>https://tscpl.libnet.info/event/7277279</link>
+      <description><![CDATA[Friday, October 21 2022 6:00pm - 7:00pm 
+ Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7277279</guid>
+      <pubDate>Fri, 21 Oct 2022 18:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Intro to Audio & Video Recording]]></title>
+      <link>https://tscpl.libnet.info/event/7277280</link>
+      <description><![CDATA[Saturday, October 22 2022 4:00pm - 5:00pm 
+ Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></description>
+      <content:encoded><![CDATA[Learn the basics of how to do audio and video recording in the Recording Studios of the Level 2 Tech Center. This class is required before booking recording studio time. ]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7277280</guid>
+      <pubDate>Sat, 22 Oct 2022 16:00:00 +0000</pubDate>
+      <author>estaley@tscpl.org (Lissa Staley)</author>
+    </item>
+    <item>
+      <title><![CDATA[Sound Factory]]></title>
+      <link>https://tscpl.libnet.info/event/7248551</link>
+      <description><![CDATA[Wednesday, October 26 2022 3:00pm - 5:00pm 
+ Teens are invited to join us to use the new Recording Studio Space to explore the art of producing music. You're welcome to bring your own instruments, expertise, or even just your interest!]]></description>
+      <content:encoded><![CDATA[Teens are invited to join us to use the new Recording Studio Space to explore the art of producing music. You're welcome to bring your own instruments, expertise, or even just your interest!]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/7248551</guid>
+      <pubDate>Wed, 26 Oct 2022 15:00:00 +0000</pubDate>
+      <author>areed@tscpl.org (Angie Reed)</author>
+    </item>
+    <item>
+      <title><![CDATA[Email for Beginners ]]></title>
+      <link>https://tscpl.libnet.info/event/6855623</link>
+      <description><![CDATA[Thursday, October 27 2022 10:00am - 11:00am 
+ Using Google's free email or Gmail learn how to log into email, open, delete, reply to & forward email messages. Please call 785-580-4607 to register.]]></description>
+      <content:encoded><![CDATA[Using Google's free email or Gmail learn how to log into email, open, delete, reply to & forward email messages. Please call 785-580-4607 to register.]]></content:encoded>
+      <guid>https://tscpl.libnet.info/event/6855623</guid>
+      <pubDate>Thu, 27 Oct 2022 10:00:00 +0000</pubDate>
+      <author>sschawo@tscpl.org (Shari Schawo)</author>
+    </item>
+  </channel>
+</rss>
