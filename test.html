@@ -11,9 +11,9 @@ th,td {
 </style>
 <body>
 
-<h1>The XMLHttpRequest Object</h1>
+<h1>Proof of Concept TSCPL Orientations</h1>
 
-<button type="button" onclick="loadDoc()">Get my CD collection</button>
+<button type="button" onclick="loadDoc()">Show Me the Classes</button>
 <br><br>
 <table id="demo"></table>
 
@@ -25,13 +25,13 @@ function loadDoc() {
       myFunction(this);
     }
   };
-  xhttp.open("GET", "https://events.tscpl.org/feeds?data=eyJmZWVkVHlwZSI6InJzcyIsImZpbHRlcnMiOnsibG9jYXRpb24iOlsiYWxsIl0sImFnZXMiOlsiYWxsIl0sInR5cGVzIjpbIlRlY2hub2xvZ3kiXSwidGFncyI6W10sInRlcm0iOiIiLCJkYXlzIjoxfX0=", true);
+  xhttp.open("GET", "room-bookings.xml", true);
   xhttp.send();
 }
 function myFunction(xml) {
   var i;
   var xmlDoc = xml.responseXML;
-  var table="<tr><th>Artist</th><th>Title</th></tr>";
+  var table="<tr><th>Class</th><th>Description</th></tr>";
   var x = xmlDoc.getElementsByTagName("item");
   for (i = 0; i <x.length; i++) { 
     table += "<tr><td>" +
