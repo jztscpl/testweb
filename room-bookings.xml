@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">9:00am</start_time>
+    <end_time name="End time">9:00pm</end_time>
+    <room_id name="Room">Alice C. Sabatini Gallery 110AB</room_id>
+    <booking_title name="Display name">Forming Fiber</booking_title>
+    <group_name name="Group name"></group_name>
+    <event_creator name="Creator"></event_creator>
+  </result>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">9:00am</start_time>
+    <end_time name="End time">12:30pm</end_time>
+    <room_id name="Room">Marvin Auditorium 101AB</room_id>
+    <booking_title name="Display name">KPERS 101 Employer Workshop</booking_title>
+    <group_name name="Group name">KPERS</group_name>
+    <event_creator name="Creator"></event_creator>
+  </result>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">9:30am</start_time>
+    <end_time name="End time">12:30pm</end_time>
+    <room_id name="Room">Menninger Room 206</room_id>
+    <booking_title name="Display name">The Write Stuff</booking_title>
+    <group_name name="Group name">The Write Stuff writing group</group_name>
+    <event_creator name="Creator">Bonnie Cuevas</event_creator>
+  </result>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">10:00am</start_time>
+    <end_time name="End time">10:30am</end_time>
+    <room_id name="Room">Story Zone 121C west</room_id>
+    <booking_title name="Display name">Preschool Storytime</booking_title>
+    <group_name name="Group name"></group_name>
+    <event_creator name="Creator"></event_creator>
+  </result>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">10:00am</start_time>
+    <end_time name="End time">4:30pm</end_time>
+    <room_id name="Room">Perkins Room 201</room_id>
+    <booking_title name="Display name">Tuesday Cross Stitchers</booking_title>
+    <group_name name="Group name">Tuesday Cross Stitchers</group_name>
+    <event_creator name="Creator"></event_creator>
+  </result>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">10:00am</start_time>
+    <end_time name="End time">11:00am</end_time>
+    <room_id name="Room">Hughes Room 205</room_id>
+    <booking_title name="Display name">Event REsources Team Meeting</booking_title>
+    <group_name name="Group name">DS</group_name>
+    <event_creator name="Creator">Shannon Eddings</event_creator>
+  </result>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">11:30am</start_time>
+    <end_time name="End time">1:00pm</end_time>
+    <room_id name="Room">Anton Room 202</room_id>
+    <booking_title name="Display name">Calvary Ladies Lunch</booking_title>
+    <group_name name="Group name">Calvary Lutheran Church</group_name>
+    <event_creator name="Creator">Bonnie Cuevas</event_creator>
+  </result>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">12:00pm</start_time>
+    <end_time name="End time">3:30pm</end_time>
+    <room_id name="Room">1020 Staff Training Room 210</room_id>
+    <booking_title name="Display name">Emerging Library Leaders</booking_title>
+    <group_name name="Group name">HR</group_name>
+    <event_creator name="Creator">Kristin Kelly</event_creator>
+  </result>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">12:00pm</start_time>
+    <end_time name="End time">1:00pm</end_time>
+    <room_id name="Room">Learning Center</room_id>
+    <booking_title name="Display name">Topeka Heartland Sertoma Club Meeting</booking_title>
+    <group_name name="Group name">Topeka Heartland Sertoma Club</group_name>
+    <event_creator name="Creator">Bonnie Cuevas</event_creator>
+  </result>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">1:30pm</start_time>
+    <end_time name="End time">3:30pm</end_time>
+    <room_id name="Room">Hughes Room 205</room_id>
+    <booking_title name="Display name">The Hypnosis group</booking_title>
+    <group_name name="Group name">Mind Body Alchemy</group_name>
+    <event_creator name="Creator"></event_creator>
+  </result>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">2:00pm</start_time>
+    <end_time name="End time">4:00pm</end_time>
+    <room_id name="Room">Menninger Room 206</room_id>
+    <booking_title name="Display name">Management Team Meeting</booking_title>
+    <group_name name="Group name">Admin</group_name>
+    <event_creator name="Creator">Aubrey Conner</event_creator>
+  </result>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">3:00pm</start_time>
+    <end_time name="End time">5:00pm</end_time>
+    <room_id name="Room">The Edge 114</room_id>
+    <booking_title name="Display name">Game ON!</booking_title>
+    <group_name name="Group name"></group_name>
+    <event_creator name="Creator"></event_creator>
+  </result>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">3:15pm</start_time>
+    <end_time name="End time">4:15pm</end_time>
+    <room_id name="Room">Learning Center</room_id>
+    <booking_title name="Display name">After School Snack</booking_title>
+    <group_name name="Group name"></group_name>
+    <event_creator name="Creator"></event_creator>
+  </result>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">3:30pm</start_time>
+    <end_time name="End time">7:00pm</end_time>
+    <room_id name="Room">Anton Room 202</room_id>
+    <booking_title name="Display name">Ward Captains-Questions answered?</booking_title>
+    <group_name name="Group name">Ward Captains</group_name>
+    <event_creator name="Creator"></event_creator>
+  </result>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">5:30pm</start_time>
+    <end_time name="End time">7:00pm</end_time>
+    <room_id name="Room">Hughes Room 205</room_id>
+    <booking_title name="Display name">Topeka Literacy Council Board Meeting</booking_title>
+    <group_name name="Group name">Topeka Literacy Council</group_name>
+    <event_creator name="Creator"></event_creator>
+  </result>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">6:00pm</start_time>
+    <end_time name="End time">7:00pm</end_time>
+    <room_id name="Room">Menninger Room 206</room_id>
+    <booking_title name="Display name">Kansas Capital Quilt Guild Board meeting</booking_title>
+    <group_name name="Group name">Kansas Capital Quilt Guild</group_name>
+    <event_creator name="Creator"></event_creator>
+  </result>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">6:00pm</start_time>
+    <end_time name="End time">9:00pm</end_time>
+    <room_id name="Room">Claire's Sunroom</room_id>
+    <booking_title name="Display name">Omni Circle</booking_title>
+    <group_name name="Group name">Omni Circle EBB</group_name>
+    <event_creator name="Creator">Meredith Snepp</event_creator>
+  </result>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">6:00pm</start_time>
+    <end_time name="End time">8:00pm</end_time>
+    <room_id name="Room">Perkins Room 201</room_id>
+    <booking_title name="Display name">Mosaic Cluster 4</booking_title>
+    <group_name name="Group name">Mosaic Cluster 4</group_name>
+    <event_creator name="Creator"></event_creator>
+  </result>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">6:30pm</start_time>
+    <end_time name="End time">8:30pm</end_time>
+    <room_id name="Room">Learning Center</room_id>
+    <booking_title name="Display name">CJ Box Overflow</booking_title>
+    <group_name name="Group name">CJ Box Overflow</group_name>
+    <event_creator name="Creator">Miranda Ericsson</event_creator>
+  </result>
+  <result>
+    <booking_start name="Date (relative)">Tuesday, September 27 2022</booking_start>
+    <start_time name="Start time">7:00pm</start_time>
+    <end_time name="End time">8:30pm</end_time>
+    <room_id name="Room">Marvin Auditorium 101ABC</room_id>
+    <booking_title name="Display name">Meet Mystery Crime Author C.J. Box</booking_title>
+    <group_name name="Group name"></group_name>
+    <event_creator name="Creator"></event_creator>
+  </result>
+</root>
