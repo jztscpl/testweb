@@ -32,7 +32,7 @@ function myFunction(xml) {
   var i;
   var xmlDoc = xml.responseXML;
   var table="<tr><th>Class</th><th>Start Time</th><th>End Time</th></tr>";
-  var x = xmlDoc.getElementsByTagName("item");
+  var x = xmlDoc.getElementsByTagName("result");
   for (i = 0; i <x.length; i++) { 
     table += "<tr><td>" +
     x[i].getElementsByTagName("booking_title")[0].childNodes[0].nodeValue +
