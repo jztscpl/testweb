@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <title>RSS Reader</title>
+   </head>
+   <body>
+      <?php
+         $rssUrl = "http://coding.academy/rss/";
+         $rssFeed = simplexml_load_file($rssUrl);
+         if(!empty($rssFeed)){
+            foreach($rssFeed->channel->item as $item){
+               $title = $item->title;
+               $link = $item->link;
+               $description = $item->description;
+               echo "<div><a href='" . $link . "'>" . $title . "</a></div>";
+               echo "<div>" . $description . "</div>";
+            }
+         } 
+      ?>
+   </body>
+</html>
