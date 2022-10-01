@@ -11,7 +11,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <th>Title</th>
         <th>Artist</th>
       </tr>
-      <xsl:for-each select="channel">
+      <xsl:for-each select="rss/channel/item">
       <xsl:sort select="title"/>
       <tr>
         <td><xsl:value-of select="title"/></td>
