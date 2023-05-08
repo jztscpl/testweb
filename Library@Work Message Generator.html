@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TSCPL@Work E-mail Template</title>
+</head>
+<body>
+	<h1>Library @Work Message Template</h1>
+	
+	<form>
+		<label style="font-weight:bold;" for="branch-select">Step 1: Choose a TSCPL@Work Location:</label>
+		<select id="branch-select" name="color">
+			<option value="Advisors Excel – Gage – Monday and Wednesday">Advisors Excel Gage</option> 
+<option value="Advisors Excel – McClure – Tuesday and Thursday">Advisors Excel McClure</option>
+<option value="Bartlett & West – Tuesday and Thursday ">Bartlett & West</option>
+<option value="Capitol Federal – Tuesday and Thursday ">Capitol Federal</option>
+<option value="EES – Monday, Wednesday, and Friday">EES</option>
+<option value="Eisenhower State Office Building – Monday, Wednesday, and Friday ">Eisenhower State Office Building</option>
+<option value="Evergy – Monday, Wednesday, and Friday">Evergy</option>
+<option value="Family Service and Guidance Center – Tuesday and Thursday">Family Service and Guidance Center</option>
+<option value="FHLB Topeka – Tuesday and Thursday">FHLB</option>
+<option value="Greater Topeka - Friday">Greater Topeka</option>
+<option value="Hills – Monday, Wednesday, and Friday">Hills</option>
+<option value="KDOL 1309 – Tuesday and Thursday">KDOL 1309</option>
+<option value="KDOL Eastman – Tuesday and Thursday">KDOL Eastman</option>
+<option value="KDOR Zibell – Tuesday and Thursday">KDOR Zibell</option>
+<option value="KNI – Monday, Wednesday, and Friday">KNI</option>
+<option value="KPERS – Tuesday and Thursday">KPERS</option>
+<option value="KS Judicial Center – Monday and Friday">Kansas Judicial Center</option>
+<option value="Landon State Office Building – Monday, Tuesday, Thursday, and Friday">Landon State Office Building</option>
+<option value="Materials Distribution Ctr – Monday and Wednesday">Materials Distribution Center</option>
+<option value="Shawnee County Courthouse – Tuesday and Thursday ">Shawnee County Courthouse</option>
+<option value="Shawnee Heights – Tuesday and Thursday ">Shawnee Heights</option>
+<option value="Stormont Vail – Tuesday and Thursday">Stormont Vail</option>
+<option value="Topeka Police Department – Tuesday and Thursday">Topeka Police Department</option>
+<option value="Washburn Library – Monday, Wednesday, and Friday ">Washburn Library</option>
+<option value="Washburn Rural High School – Monday, Wednesday, and Friday ">Washburn Rural High School</option>
+<option value="Washburn Rural Middle School – Monday, Wednesday, and Friday">Washburn Rural Middle School</option>
+<option value="YWCA – Friday">YWCA</option>
+		</select><br>
+		
+		<label style="font-weight:bold;" for="material-type">Step 2: Choose a Material Type:</label>
+		<select id="material-type" name="material">
+			<option value="blu-ray">Blu-Ray</option>
+			<option value="book">Book</option>
+			<option value="book bag">Book Bag</option>
+			<option value="book on CD">Book on CD</option>
+			<option value="CD">CD</option>
+			<option value="DVD">DVD</option>
+			<option value="kit">Kit</option>
+			<option value="playaway">Playaway</option>
+		</select><br>
+		
+		<label style="font-weight:bold;" for="title">Step 3: Enter the title:
+		<input type="text" id="material-title" name="title"></label>
+			
+		
+		<p style="font-weight:bold; padding: 0px; margin: 0px;">Step 4: Click the Button<button type="button" onclick="createParagraph()">Create Paragraph</button><br>
+		<strong>Step 5: Click the copy button at the bottom</strong>
+	</p></form>
+	
+	<div id="text-to-copy">
+	<p id="result"></p>
+	<p>This item will be checked out to you and have a due date slip on the cover. If you have any questions reply to this email or call 785-580-4424. <br><br>
+	<strong>Library Hours</strong><br>
+	Monday through Friday: 8 am - 9 pm <br>
+	Saturday: 9am - 6pm <br>
+	Sunday: 12 noon - 9 pm <br><br>
+	Circulation Department <br>
+	Topeka and Shawnee County Public Library <br>
+	1515 SW 10th Ave. <br>Topeka, KS 66604</p>
+	</div>
+	
+	<button id="copy-button" onclick="copyText()">Copy</button>
+	
+	<script>
+		function createParagraph() {
+			var branch = document.getElementById("branch-select").value;
+			var material = document.getElementById("material-type").value;
+			var title = document.getElementById("material-title").value;
+			
+			var paragraph = "The " + material + " you requested, " + title  +  " has arrived and will be delivered to "+branch+ ".";
+			
+			document.getElementById("result").innerHTML = paragraph;
+		}
+	</script>
+	<script>
+function copyText() {
+  // Get the element to be copied
+  const element = document.getElementById("text-to-copy");
+  
+  // Create a range that selects the contents of the element
+  const range = document.createRange();
+  range.selectNodeContents(element);
+  
+  // Get the selection object
+  const selection = window.getSelection();
+  
+  // Remove any existing selections
+  selection.removeAllRanges();
+  
+  // Add the new range to the selection
+  selection.addRange(range);
+  
+  // Copy the selected text to the clipboard
+  document.execCommand("copy");
+  
+  // Alert the user that the text has been copied
+  alert("Text copied to clipboard!");
+  
+  // Remove the range from the selection (optional)
+  selection.removeAllRanges();
+}
+</script>
+</body>
+</html>
