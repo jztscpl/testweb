@@ -37,7 +37,10 @@
 <option value="Washburn Rural Middle School – Monday, Wednesday, and Friday">Washburn Rural Middle School</option>
 <option value="YWCA – Friday">YWCA</option>
 		</select><br>
-		
+		<label style="font-weight:bold;" for="option-1"><input type="checkbox" id="checkbox" name="option" value="option-1">
+      Multiple Items?
+    </label><br>
+	
 		<label style="font-weight:bold;" for="material-type">Step 2: Choose a Material Type:</label>
 		<select id="material-type" name="material">
 			<option value="blu-ray">Blu-Ray</option>
@@ -50,18 +53,18 @@
 			<option value="playaway">Playaway</option>
 		</select><br>
 		
-		<label style="font-weight:bold;" for="title">Step 3: Enter the title:
-		<input type="text" id="material-title" name="title"></label>
+		<label style="font-weight:bold;" for="title">Step 3: Enter the title(s):
+		<input type="text" style="width:350px;margin:5px;" id="material-title" name="title"></label>
 			
 		
-		<p style="font-weight:bold; padding: 0px; margin: 0px;">Step 4: Click the Button<button type="button" onclick="createParagraph()">Create Paragraph</button><br>
+		<p style="font-weight:bold; padding: 0px; margin: 0px;">Step 4: Click the Button  <button type="button" onclick="createParagraph()">Create Paragraph</button><br>
 		<strong>Step 5: Click the copy button at the bottom</strong>
 	</p></form>
 	
 	<div id="text-to-copy">
 	<p id="result"></p>
-	<p>This item will be checked out to you and have a due date slip on the cover. If you have any questions reply to this email or call 785-580-4424. <br><br>
-	<strong>Library Hours</strong><br>
+	
+	<p><strong>Library Hours</strong><br>
 	Monday through Friday: 8 am - 9 pm <br>
 	Saturday: 9am - 6pm <br>
 	Sunday: 12 noon - 9 pm <br><br>
@@ -77,8 +80,14 @@
 			var branch = document.getElementById("branch-select").value;
 			var material = document.getElementById("material-type").value;
 			var title = document.getElementById("material-title").value;
+			var option = document.getElementById("checkbox");
 			
-			var paragraph = "The " + material + " you requested, " + title  +  ", has arrived and will be delivered to "+branch+ ".";
+			
+			if (option.checked ==true) {
+    var paragraph = " The following items will be delivered to "+branch+":<br>" +title+".<br> These items will be checked out to you and have a due date slip on the cover. If you have any questions reply to this email or call 785-580-4424. <br><br>";
+  } else  {
+    var paragraph = "The " + material + " you requested, " + title  +  ", has arrived and will be delivered to "+branch+ ". <br> This item will be checked out to you and have a due date slip on the cover. If you have any questions reply to this email or call 785-580-4424. <br><br>";
+  }
 			
 			document.getElementById("result").innerHTML = paragraph;
 		}
@@ -111,5 +120,6 @@ function copyText() {
   selection.removeAllRanges();
 }
 </script>
+
 </body>
 </html>
