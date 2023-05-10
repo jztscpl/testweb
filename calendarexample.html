@@ -15,36 +15,23 @@
 					center: 'title',
 					right: 'month,agendaWeek,agendaDay'
 				},
-				events: function(start, end, timezone, callback) {
-					$.ajax({
-						url: 'https://events.tscpl.org/feeds?data=eyJmZWVkVHlwZSI6InJzcyIsImZpbHRlcnMiOnsibG9jYXRpb24iOlsiYWxsIl0sImFnZXMiOlsiYWxsIl0sInR5cGVzIjpbIlN1bW1lciBSZWFkaW5nIl0sInRhZ3MiOltdLCJ0ZXJtIjoiIiwiZGF5cyI6MX19',
-						type: 'GET',
-						dataType: 'xml',
-						success: function(data) {
-							// test if the XML data was imported correctly
-							if ($(data).find('item').length == 0) {
-								console.log('Error: No events found in the XML data.');
-								return;
-							}
-							
-							// parse the XML data and format it as events
-							var events = [];
-							$(data).find('item').each(function() {
-								var event = {
-									title: $(this).find('title').text(),
-									start: $(this).find('pubDate').text(),
-									description: $(this).find('description').text()
-								};
-								events.push(event);
-							});
-							
-							// pass the events to the calendar
-							callback(events);
-						},
-						error: function(xhr, status, error) {
-							console.log('Error: ' + error);
-						}
-					});
+				events: {
+					url: 'room-bookings.xml',
+					cache: true,
+					type: 'GET',
+					dataType: 'xml',
+					success: function(data) {
+						var events = [];
+						$(data).find('item').each(function() {
+							var event = {
+								title: $(this).find('title').text(),
+								start: $(this).find('pubDate').text(),
+								description: $(this).find('description').text()
+							};
+							events.push(event);
+						});
+						$('#calendar').fullCalendar('renderEvents', events, true);
+					}
 				},
 				eventClick: function(event) {
 					// display event details in a popup
