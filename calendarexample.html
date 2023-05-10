@@ -8,54 +8,45 @@
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.10.2/fullcalendar.min.js'></script>
 	<script>
 		$(document).ready(function() {
-			// define the calendar
-			$('#calendar').fullCalendar({
-				header: {
-					left: 'prev,next today',
-					center: 'title',
-					right: 'month,agendaWeek,agendaDay'
-				},
-				events: {
-					url: 'room-bookings.xml',
-					cache: true,
-					type: 'GET',
-					dataType: 'xml',
-					success: function(data) {
-						var events = [];
-						$(data).find('item').each(function() {
-							var event = {
-								title: $(this).find('title').text(),
-								start: $(this).find('pubDate').text(),
-								description: $(this).find('description').text()
-							};
-							events.push(event);
-						});
-						$('#calendar').fullCalendar('renderEvents', events, true);
-					}
-				},
-				eventClick: function(event) {
-					// display event details in a popup
-					alert('Title: ' + event.title + '\nStart: ' + event.start.format('YYYY-MM-DD HH:mm:ss') + '\nDescription: ' + event.description);
-				}
-			});
-		});
-	</script>
-	<script>
-	success: function(data) {
-    var events = [];
-    $(data).find('item').each(function() {
-        var event = {
-            title: $(this).find('title').text(),
-            start: $(this).find('pubDate').text(),
-            description: $(this).find('description').text()
-        };
-        events.push(event);
+    // define the calendar
+    $('#calendar').fullCalendar({
+        header: {
+            left: 'prev,next today',
+            center: 'title',
+            right: 'month,agendaWeek,agendaDay'
+        },
+        events: {
+            url: 'room-bookings.xml',
+            cache: true,
+            type: 'GET',
+            dataType: 'xml',
+            success: function(data) {
+                var events = [];
+                $(data).find('item').each(function() {
+                    var event = {
+                        title: $(this).find('title').text(),
+                        start: $(this).find('pubDate').text(),
+                        description: $(this).find('description').text()
+                    };
+                    events.push(event);
+                });
+                $('#calendar').fullCalendar('renderEvents', events, true);
+            }
+        },
+        eventClick: function(event) {
+            // display event details in a popup
+            alert('Title: ' + event.title + '\nStart: ' + event.start.format('YYYY-MM-DD HH:mm:ss') + '\nDescription: ' + event.description);
+        },
+        viewRender: function(view, element) {
+            // remove events and render them again when changing months
+            $('#calendar').fullCalendar('removeEvents');
+            $('#calendar').fullCalendar('refetchEvents');
+        }
     });
-    $('#calendar').fullCalendar('removeEvents');
-    $('#calendar').fullCalendar('renderEvents', events, true);
-}
+});
 
-</script>
+	</script>
+
 
 </head>
 <body>
