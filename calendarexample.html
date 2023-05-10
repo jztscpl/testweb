@@ -43,7 +43,6 @@
 	<script>
 	success: function(data) {
     var events = [];
-    var eventList = $('#eventList ul');
     $(data).find('item').each(function() {
         var event = {
             title: $(this).find('title').text(),
@@ -51,10 +50,11 @@
             description: $(this).find('description').text()
         };
         events.push(event);
-        eventList.append('<li>' + event.title + '</li>');
     });
+    $('#calendar').fullCalendar('removeEvents');
     $('#calendar').fullCalendar('renderEvents', events, true);
 }
+
 </script>
 
 </head>
