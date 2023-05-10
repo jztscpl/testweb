@@ -40,8 +40,30 @@
 			});
 		});
 	</script>
+	<script>
+	success: function(data) {
+    var events = [];
+    var eventList = $('#eventList ul');
+    $(data).find('item').each(function() {
+        var event = {
+            title: $(this).find('title').text(),
+            start: $(this).find('pubDate').text(),
+            description: $(this).find('description').text()
+        };
+        events.push(event);
+        eventList.append('<li>' + event.title + '</li>');
+    });
+    $('#calendar').fullCalendar('renderEvents', events, true);
+}
+</script>
+
 </head>
 <body>
 	<div id='calendar'></div>
+
+<div id="eventList">
+    <h2>Upcoming Events:</h2>
+    <ul></ul>
+</div>
 </body>
 </html>
