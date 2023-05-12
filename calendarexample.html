@@ -1,21 +1,58 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset='utf-8' />
-  <link href='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.10.2/fullcalendar.min.css' rel='stylesheet' />
-  <link href='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.10.2/fullcalendar.print.min.css' rel='stylesheet' media='print' />
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js'></script>
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.10.2/fullcalendar.min.js'></script>
-  <script>
-    $(document).ready(function() {
-      $('#calendar').fullCalendar({
-        events: 'summerevents.ics'
-      });
-    });
-  </script>
+	<meta charset="UTF-8">
+	<title>ICS to HTML Example</title>
 </head>
 <body>
-  <div id='calendar'></div>
+	<h1></h1>
+	<table>
+		<tr><th>Date</th><td></td></tr>
+		<tr><th>Time</th><td></td></tr>
+		<tr><th>Location</th><td></td></tr>
+		<tr><th>Description</th><td></td></tr>
+	</table>
+
+	<script>
+		fetch('summerevents.ics')
+			.then(response => response.text())
+			.then(data => {
+				// Parse the ICS data and display it as an HTML page
+				var jcalData = ICAL.parse(data);
+				var vcalendar = new ICAL.Component(jcalData);
+				var vevent = vcalendar.getFirstSubcomponent('vevent');
+
+				var title = vevent.getFirstPropertyValue('summary');
+				var startDate = vevent.getFirstPropertyValue('dtstart').toJSDate();
+				var endDate = vevent.getFirstPropertyValue('dtend').toJSDate();
+				var startTime = formatTime(startDate);
+				var endTime = formatTime(endDate);
+				var date = formatDate(startDate);
+				var location = vevent.getFirstPropertyValue('location');
+				var description = vevent.getFirstPropertyValue('description');
+
+				// Set the HTML content
+				document.querySelector("h1").textContent = title;
+				document.querySelector("table tr:nth-child(1) td").textContent = date;
+				document.querySelector("table tr:nth-child(2) td").textContent = startTime + " - " + endTime;
+				document.querySelector("table tr:nth-child(3) td").textContent = location;
+				document.querySelector("table tr:nth-child(4) td").textContent = description;
+			});
+
+		function formatDate(date) {
+			return date.toLocaleDateString();
+		}
+
+		function formatTime(date) {
+			var hours = date.getHours();
+			var minutes = date.getMinutes();
+			var ampm = hours >= 12 ? 'PM' : 'AM';
+			hours = hours % 12;
+			hours = hours ? hours : 12; // the hour '0' should be '12'
+			minutes = minutes < 10 ? '0'+minutes : minutes;
+			var strTime = hours + ':' + minutes + ' ' + ampm;
+			return strTime;
+		}
+	</script>
 </body>
 </html>
