@@ -5,54 +5,41 @@
 	<title>ICS to HTML Example</title>
 </head>
 <body>
-	<h1></h1>
+	<h1>Calendar</h1>
 	<table>
-		<tr><th>Date</th><td></td></tr>
-		<tr><th>Time</th><td></td></tr>
-		<tr><th>Location</th><td></td></tr>
-		<tr><th>Description</th><td></td></tr>
+		<thead>
+			<tr>
+				<th>Date</th>
+				<th>Time</th>
+				<th>Location</th>
+				<th>Description</th>
+			</tr>
+		</thead>
+		<tbody id="eventList"></tbody>
 	</table>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ical.js/1.5.0/ical.min.js"></script>
 	<script>
 		fetch('summerevents.ics')
 			.then(response => response.text())
 			.then(data => {
-				// Parse the ICS data and display it as an HTML page
-				var jcalData = ICAL.parse(data);
-				var vcalendar = new ICAL.Component(jcalData);
-				var vevent = vcalendar.getFirstSubcomponent('vevent');
+				// Parse the ICS data into an array of events
+				const jcalData = ICAL.parse(icsData);
+				const comp = new ICAL.Component(jcalData);
+				const vevents = comp.getAllSubcomponents('vevent');
+				const events = vevents.map(vevent => new ICAL.Event(vevent));
 
-				var title = vevent.getFirstPropertyValue('summary');
-				var startDate = vevent.getFirstPropertyValue('dtstart').toJSDate();
-				var endDate = vevent.getFirstPropertyValue('dtend').toJSDate();
-				var startTime = formatTime(startDate);
-				var endTime = formatTime(endDate);
-				var date = formatDate(startDate);
-				var location = vevent.getFirstPropertyValue('location');
-				var description = vevent.getFirstPropertyValue('description');
-
-				// Set the HTML content
-				document.querySelector("h1").textContent = title;
-				document.querySelector("table tr:nth-child(1) td").textContent = date;
-				document.querySelector("table tr:nth-child(2) td").textContent = startTime + " - " + endTime;
-				document.querySelector("table tr:nth-child(3) td").textContent = location;
-				document.querySelector("table tr:nth-child(4) td").textContent = description;
-			});
-
-		function formatDate(date) {
-			return date.toLocaleDateString();
-		}
-
-		function formatTime(date) {
-			var hours = date.getHours();
-			var minutes = date.getMinutes();
-			var ampm = hours >= 12 ? 'PM' : 'AM';
-			hours = hours % 12;
-			hours = hours ? hours : 12; // the hour '0' should be '12'
-			minutes = minutes < 10 ? '0'+minutes : minutes;
-			var strTime = hours + ':' + minutes + ' ' + ampm;
-			return strTime;
-		}
+				// Loop through the events and add them to the table
+				const eventList = document.getElementById('eventList');
+				events.forEach(event => {
+					const row = eventList.insertRow();
+					const startDate = event.startDate.toJSDate();
+					row.insertCell().textContent = startDate.toLocaleDateString();
+					row.insertCell().textContent = startDate.toLocaleTimeString();
+					row.insertCell().textContent = event.location;
+					row.insertCell().textContent = event.summary;
+				});
+			})
+			.catch(error => console.error(error));
 	</script>
 </body>
 </html>
