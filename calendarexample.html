@@ -19,27 +19,45 @@
 	</table>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ical.js/1.5.0/ical.min.js"></script>
 	<script>
-		fetch('summerevents.ics')
-			.then(response => response.text())
-			.then(data => {
-				// Parse the ICS data into an array of events
-				const jcalData = ICAL.parse(icsData);
-				const comp = new ICAL.Component(jcalData);
-				const vevents = comp.getAllSubcomponents('vevent');
-				const events = vevents.map(vevent => new ICAL.Event(vevent));
+	      var icsUrl = "summerevents.ics";
+      var icsData;
+      
+      fetch(icsUrl)
+        .then(response => response.text())
+        .then(data => {
+          icsData = ICAL.parse(data);
+          displayEvents();
+        })
+        .catch(err => console.error(err));
 
-				// Loop through the events and add them to the table
-				const eventList = document.getElementById('eventList');
-				events.forEach(event => {
-					const row = eventList.insertRow();
-					const startDate = event.startDate.toJSDate();
-					row.insertCell().textContent = startDate.toLocaleDateString();
-					row.insertCell().textContent = startDate.toLocaleTimeString();
-					row.insertCell().textContent = event.location;
-					row.insertCell().textContent = event.summary;
-				});
-			})
-			.catch(error => console.error(error));
-	</script>
-</body>
+      function displayEvents() {
+        var eventTableBody = document.getElementById("eventTableBody");
+        eventTableBody.innerHTML = "";
+
+        var vcalendar = new ICAL.Component(icsData);
+        var vevents = vcalendar.getAllSubcomponents("vevent");
+
+        vevents.forEach(function(event) {
+          var eventRow = document.createElement("tr");
+          var dtstart = event.getFirstPropertyValue("dtstart").toJSDate();
+          var summary = event.getFirstPropertyValue("summary");
+          var description = event.getFirstPropertyValue("description");
+
+          var dateCell = document.createElement("td");
+          dateCell.textContent = dtstart.toLocaleDateString();
+          eventRow.appendChild(dateCell);
+
+          var summaryCell = document.createElement("td");
+          summaryCell.textContent = summary;
+          eventRow.appendChild(summaryCell);
+
+          var descriptionCell = document.createElement("td");
+          descriptionCell.textContent = description;
+          eventRow.appendChild(descriptionCell);
+
+          eventTableBody.appendChild(eventRow);
+        });
+      }
+    </script>
+  </body>
 </html>
