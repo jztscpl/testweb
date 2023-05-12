@@ -1,0 +1,2864 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Summer Reading Events
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230624
+DTEND;VALUE=DATE:20230625
+DTSTAMP:20230512T062308Z
+UID:CSVConvert00cec7a9d8b6f7579418fb5886c21c61
+CREATED:19000101T120000Z
+DESCRIPTION:Create several dog art projects. Man's best friend is used to d
+ escribe dogs due to their long history of companionship\, friendship and lo
+ yalty.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dogs = Man's Best Friend
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230607
+DTEND;VALUE=DATE:20230608
+DTSTAMP:20230512T062308Z
+UID:CSVConvert018258cada1ccb5fc8524062e59186a2
+CREATED:19000101T120000Z
+DESCRIPTION:Get in the rhythm with this unique experience! Seaman High Scho
+ ol musicians entertain you with cool beats & sounds. Families with kids who
+  can take the noise & excitement will love this local talent!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Seaman High School "Viking Steel" Band - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230614
+DTEND;VALUE=DATE:20230615
+DTSTAMP:20230512T062308Z
+UID:CSVConvert050cf3c2068a916d9dd7502201f60e8c
+CREATED:19000101T120000Z
+DESCRIPTION:Prepare to be dazzled with mind reading\, crafty card tricks\, 
+ & Jack's zany personality! Jack has 10 years in the art and was named Kansa
+ s City?s Closeup Magician of the Year. This is an amazing show.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Jack Reid Magic - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230709
+DTEND;VALUE=DATE:20230710
+DTSTAMP:20230512T062308Z
+UID:CSVConvert060648f21e78bc29bc34762ae6c217a3
+CREATED:19000101T120000Z
+DESCRIPTION:Pose with our life-sized photo of Mayor Padilla and fill-in-the
+ -blanks on your Letter to the Mayor. Share what you are glad about and what
+  you want to change in Topeka. Letters will be delivered!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Write the Mayor a Letter!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230627
+DTEND;VALUE=DATE:20230628
+DTSTAMP:20230512T062308Z
+UID:CSVConvert070ec828928f9f21958915aca0512d13
+CREATED:19000101T120000Z
+DESCRIPTION:Vote for your favorite well-known bestie. Place a sticker dot t
+ he pictures of your favorite besties to vote.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vote for Your Bestie
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230723
+DTEND;VALUE=DATE:20230724
+DTSTAMP:20230512T062308Z
+UID:CSVConvert08070ac4537f30750ade3311365d842d
+CREATED:19000101T120000Z
+DESCRIPTION:Come see\, hear and touch musical instruments from around the w
+ orld! Learn how they make sound and try them yourself! Derek Sharp\, owner 
+ of Supersonic Music will bring instruments and talk about them.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Instrument Petting Zoo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230619
+DTEND;VALUE=DATE:20230620
+DTSTAMP:20230512T062308Z
+UID:CSVConvert0c3e90fb9a79f3aa8689a978b5a802b2
+CREATED:19000101T120000Z
+DESCRIPTION:Make a twisted string bracelet for yourself and make one for a 
+ friend. Show your friend how much you care.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Friendship Bracelet making
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230705
+DTEND;VALUE=DATE:20230706
+DTSTAMP:20230512T062308Z
+UID:CSVConvert0f3ee9f296dc8442fe00cb787890dee4
+CREATED:19000101T120000Z
+DESCRIPTION:Learn how to use the equipment\, then practice and play in the 
+ audio and video recording studios in Level 2 Tech Center.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Recording Studio B (au
+ dio+video)\,Recording Studio A (audio)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Podcasting and Beyond for Teens - Level 2 Tech Center Orientation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230627
+DTEND;VALUE=DATE:20230628
+DTSTAMP:20230512T062308Z
+UID:CSVConvert1210bc78d207db0e25aafc923e6c15b1
+CREATED:19000101T120000Z
+DESCRIPTION:Join us on a scavenger hunt for your favorite book characters. 
+ The books are on the shelves\, but the characters are hiding in plain sight
+ .
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Kids Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Great Book Character Hunt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230729
+DTEND;VALUE=DATE:20230730
+DTSTAMP:20230512T062308Z
+UID:CSVConvert142181f39303265ef59212d5827c50f3
+CREATED:19000101T120000Z
+DESCRIPTION:Learn about the upcoming solar eclipse and other cool space stu
+ ff with hands-on activity stations to explore at your own pace.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Astronomypalooza
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230710
+DTEND;VALUE=DATE:20230711
+DTSTAMP:20230512T062308Z
+UID:CSVConvert14905d805f1f8d0e14b433db99182915
+CREATED:19000101T120000Z
+DESCRIPTION:I'm stuck on you! Draw a picture and make a magnet on the Adven
+ turemobile this week.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Countryside United Methodist Church - 3221 SW Burlingame Rd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Make a Magnet! - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230628
+DTEND;VALUE=DATE:20230629
+DTSTAMP:20230512T062308Z
+UID:CSVConvert14d6342ddba90f08b2441dbc9849dbd2
+CREATED:19000101T120000Z
+DESCRIPTION:Let's take a trip around the world! Dino & the T-Rex Trio trans
+ port us to all 7 continents highlighting interesting details about history\
+ , sports\, animals\, food and weather.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dino O'Dell and the T-Rex Trio - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230713
+DTEND;VALUE=DATE:20230714
+DTSTAMP:20230512T062308Z
+UID:CSVConvert1974359e8a31ba70d5af1e91b763b135
+CREATED:19000101T120000Z
+DESCRIPTION:I'm stuck on you! Draw a picture and make a magnet on the Adven
+ turemobile this week.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Christ the King - 5973 SW 25th St
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Make a Magnet! - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230626
+DTEND;VALUE=DATE:20230627
+DTSTAMP:20230512T062308Z
+UID:CSVConvert199dbf1eff1c66fa75d729d5af795da3
+CREATED:19000101T120000Z
+DESCRIPTION:Add a touch of color to a 24" x 52" "Welcome" coloring poster w
+ ith markers provided.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:"Welcome" Wall Coloring Poster
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230624
+DTEND;VALUE=DATE:20230625
+DTSTAMP:20230512T062308Z
+UID:CSVConvert1af0b179dec54f195e75b23fecc01be1
+CREATED:19000101T120000Z
+DESCRIPTION:Vote for your favorite well-known bestie. Place a sticker dot t
+ he pictures of your favorite besties to vote.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vote for Your Bestie
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230706
+DTEND;VALUE=DATE:20230707
+DTSTAMP:20230512T062308Z
+UID:CSVConvert1db510904e10a02e6a5cd6420970df3a
+CREATED:19000101T120000Z
+DESCRIPTION:Have an opinion? Big or small\, you can get on your soapbox and
+  share it with the room - or you can try to! We'll have breakout box activi
+ ties and we'll see if your opinion can catch their attention!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Get on Your Soapbox and Breakout! - Fun at One
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230708
+DTEND;VALUE=DATE:20230709
+DTSTAMP:20230512T062308Z
+UID:CSVConvert1e1af29210fa6d10f2ad87ea9ada2a84
+CREATED:19000101T120000Z
+DESCRIPTION:A guest chef or dietician share budget friendly family cooking 
+ tips and recipes\, while you enjoy samples. Create your own conversation ki
+ ts\, plus take home ingredients to make two recipes together.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Family Dinner Project - Learning through food\, fun & conversation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230620
+DTEND;VALUE=DATE:20230621
+DTSTAMP:20230512T062308Z
+UID:CSVConvert1fc8da20524e0e282408761b9bdc4901
+CREATED:19000101T120000Z
+DESCRIPTION:STEM Challenge - Save your figurines from the lava and then coo
+ l down with an ice cream sandwich! Desafío STEM - ¡Rescata tus figuras de l
+ a lava y luego refréscate con un sándwich de helado!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Floor is Lava / El Piso es Lava - Fun at One
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230725
+DTEND;VALUE=DATE:20230726
+DTSTAMP:20230512T062308Z
+UID:CSVConvert205b5edcc442fd933027e765b26f49a1
+CREATED:19000101T120000Z
+DESCRIPTION:Shake\, shake\, shake with us this week when you make your own 
+ colorful maracas on the Adventuremobile.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Security Benefit Academy - 1 SW Security Benefit PL
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Maracas! - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230625
+DTEND;VALUE=DATE:20230626
+DTSTAMP:20230512T062308Z
+UID:CSVConvert210d69e00d71ab4c5032ed7b235021ce
+CREATED:19000101T120000Z
+DESCRIPTION:Add a touch of color to a 24" x 52" "Welcome" coloring poster w
+ ith markers provided.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:"Welcome" Wall Coloring Poster
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230620
+DTEND;VALUE=DATE:20230621
+DTSTAMP:20230512T062308Z
+UID:CSVConvert2196460957b5008649b9aa83c2db3477
+CREATED:19000101T120000Z
+DESCRIPTION:Join us on a scavenger hunt for your favorite book characters. 
+ The books are on the shelves\, but the characters are hiding in plain sight
+ .
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Kids Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Great Book Character Hunt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230630
+DTEND;VALUE=DATE:20230701
+DTSTAMP:20230512T062308Z
+UID:CSVConvert21bd105d00de3c006fe7f25eed0b1c54
+CREATED:19000101T120000Z
+DESCRIPTION:Join us on a scavenger hunt for your favorite book characters. 
+ The books are on the shelves\, but the characters are hiding in plain sight
+ .
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Kids Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Great Book Character Hunt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230628
+DTEND;VALUE=DATE:20230629
+DTSTAMP:20230512T062308Z
+UID:CSVConvert232518ed7eae2d54c646fd343cfdb7a4
+CREATED:19000101T120000Z
+DESCRIPTION:Feeling a little puzzled? Help put together a variety of puzzle
+ s. We'll have puzzles for all ages and levels available.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Puzzles for Everyone
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230705
+DTEND;VALUE=DATE:20230706
+DTSTAMP:20230512T062308Z
+UID:CSVConvert23eaac1833e073e689fa164750d715af
+CREATED:19000101T120000Z
+DESCRIPTION:Science is Astounding ? We are all in this together! Volunteers
+  be asked to help out create chemical reactions to show sometimes it takes 
+ more than one to make incredible things happen.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mad Science - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230719
+DTEND;VALUE=DATE:20230720
+DTSTAMP:20230512T062308Z
+UID:CSVConvert24847dd1ddad51435a7dd48f53ce1c50
+CREATED:19000101T120000Z
+DESCRIPTION:Boogie in a rockin' dance party for the whole family! Award-win
+ ning kid rocker and author\, Jim "Mr. Stinky Feet" Cosgrove celebrates 25 y
+ ears of uniting communities through music.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mr. Stinky Feet - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230619
+DTEND;VALUE=DATE:20230620
+DTSTAMP:20230512T062308Z
+UID:CSVConvert259a85800b384b06eae26813cc42183b
+CREATED:19000101T120000Z
+DESCRIPTION:Feeling a little puzzled? Help put together a variety of puzzle
+ s. We'll have puzzles for all ages and levels available.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Puzzles for Everyone
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230620
+DTEND;VALUE=DATE:20230621
+DTSTAMP:20230512T062308Z
+UID:CSVConvert262b037190a427f9c333b2250bf6c218
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile and discover what kin
+ d of friend you are! Are you loyal\, cool & caring? Bring a friend along an
+ d we'll make bracelets.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: First Lutheran Church - 1234 SW Fairlawn Rd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:What Kind of Friend are you? bracelet making - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230627
+DTEND;VALUE=DATE:20230628
+DTSTAMP:20230512T062308Z
+UID:CSVConvert29ced994a548f9a75cf86162e232f277
+CREATED:19000101T120000Z
+DESCRIPTION:Add a touch of color to a 24" x 52" "Welcome" coloring poster w
+ ith markers provided.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:"Welcome" Wall Coloring Poster
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230630
+DTEND;VALUE=DATE:20230701
+DTSTAMP:20230512T062308Z
+UID:CSVConvert2b0b763f56d432bb3c888f516809f1f1
+CREATED:19000101T120000Z
+DESCRIPTION:Add a touch of color to a 24" x 52" "Welcome" coloring poster w
+ ith markers provided.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:"Welcome" Wall Coloring Poster
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230620
+DTEND;VALUE=DATE:20230621
+DTSTAMP:20230512T062308Z
+UID:CSVConvert2d3022ded6478b26f5eccb3d36da1e46
+CREATED:19000101T120000Z
+DESCRIPTION:Feeling a little puzzled? Help put together a variety of puzzle
+ s. We'll have puzzles for all ages and levels available.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Puzzles for Everyone
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230627
+DTEND;VALUE=DATE:20230628
+DTSTAMP:20230512T062308Z
+UID:CSVConvert2dbce919bede22da55344258782b0072
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile and explore a wheel o
+ f emotions!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: First Lutheran Church - 1234 SW Fairlawn Rd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Starburst Emotions & Spinning Wheel - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230707
+DTEND;VALUE=DATE:20230708
+DTSTAMP:20230512T062308Z
+UID:CSVConvert2fc543870434a5846802431f90dd7fa3
+CREATED:19000101T120000Z
+DESCRIPTION:Pose with our life-sized photo of Mayor Padilla and fill-in-the
+ -blanks on your Letter to the Mayor. Share what you are glad about and what
+  you want to change in Topeka. Letters will be delivered!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Write the Mayor a Letter!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230623
+DTEND;VALUE=DATE:20230624
+DTSTAMP:20230512T062308Z
+UID:CSVConvert307eaf606eed5b4fd1b19d101c5db238
+CREATED:19000101T120000Z
+DESCRIPTION:Vote for your favorite well-known bestie. Place a sticker dot t
+ he pictures of your favorite besties to vote.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vote for Your Bestie
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230620
+DTEND;VALUE=DATE:20230621
+DTSTAMP:20230512T062308Z
+UID:CSVConvert3206463b69caac97d9cf35570710561d
+CREATED:19000101T120000Z
+DESCRIPTION:Test your knowledge of the TV series\, Stranger Things\, which 
+ takes place in Indiana in the 1980s. In the show a group of teens witness m
+ ysteries and search for answers.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - The Edge 114
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stranger Things Teen Trivia
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230603
+DTEND;VALUE=DATE:20230604
+DTSTAMP:20230512T062308Z
+UID:CSVConvert34f5840f558c0d331f4fb727c46fc20b
+CREATED:19000101T120000Z
+DESCRIPTION:It's finally summer\, let's have a party! Join us for facepaint
+ ing\, inflatables\, activities and cover band Switch in Time in the parking
+  lot to celebrate the start of summer!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC\,Parking - Brick Drive\,Parking - West Lot
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Summer Reading Kickoff Party
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230608
+DTEND;VALUE=DATE:20230609
+DTSTAMP:20230512T062308Z
+UID:CSVConvert37de1800ce7b2d66cbc82ca4ae6de17e
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile and discover how wond
+ erful you are and make a bookmark.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Christ the King - 5973 Sw 25th St
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fantastic Me Bookmarks! - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230703
+DTEND;VALUE=DATE:20230704
+DTSTAMP:20230512T062308Z
+UID:CSVConvert384512826c61d2388f55a216c176369a
+CREATED:19000101T120000Z
+DESCRIPTION:Be a friend to Mother Nature! Visit us on the Adventuremobile a
+ nd plant butterfly milkweed seeds.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Countryside United Methodist Church - 3221 SW Burlingame Rd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Help the Monarchs! Plant butterfly milkweed seeds - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230629
+DTEND;VALUE=DATE:20230630
+DTSTAMP:20230512T062308Z
+UID:CSVConvert3881067229519cd87b7bbb07c0484094
+CREATED:19000101T120000Z
+DESCRIPTION:Make one or make several bendy friends you can bend and pose ov
+ er and over again.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bendy Friends - Fun at One
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230701
+DTEND;VALUE=DATE:20230702
+DTSTAMP:20230512T062308Z
+UID:CSVConvert3930c7950d9d4af0439fcf4f46a6d28f
+CREATED:19000101T120000Z
+DESCRIPTION:Henna artist V Heiland will give you a unique and memorable tem
+ porary body art. She only uses homemade all-natural henna made from the hen
+ na plant\, essential oils\, water and sugar.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Henna Temporary Body Art
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230725
+DTEND;VALUE=DATE:20230726
+DTSTAMP:20230512T062308Z
+UID:CSVConvert3b800b91e3e5563afffaf72b1e6703cd
+CREATED:19000101T120000Z
+DESCRIPTION:Shake\, shake\, shake with us this week when you make your own 
+ colorful maracas on the Adventuremobile.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: First Lutheran Church - 1234 SW Fairlawn Rd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Maracas! - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230718
+DTEND;VALUE=DATE:20230719
+DTSTAMP:20230512T062308Z
+UID:CSVConvert3c5969fcf7440a1e9beb189039e56a2b
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile! We will focus on pos
+ itive thoughts and intentions while creating inspiring flags.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: First Lutheran Church - 1234 SW Fairlawn Rd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tibetan Flags - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230623
+DTEND;VALUE=DATE:20230624
+DTSTAMP:20230512T062308Z
+UID:CSVConvert3cbe3ccdc7e66435b5af2da845f5261c
+CREATED:19000101T120000Z
+DESCRIPTION:Feeling a little puzzled? Help put together a variety of puzzle
+ s. We'll have puzzles for all ages and levels available.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Puzzles for Everyone
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230706
+DTEND;VALUE=DATE:20230707
+DTSTAMP:20230512T062308Z
+UID:CSVConvert3ee9e145fc2cbae059293b97e3980ef3
+CREATED:19000101T120000Z
+DESCRIPTION:Be a friend to Mother Nature! Visit us on the Adventuremobile a
+ nd plant butterfly milkweed seeds.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Christ the King - 5973 SW 25th St
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Help the Monarchs! Plant butterfly milkweed seeds - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230613
+DTEND;VALUE=DATE:20230614
+DTSTAMP:20230512T062308Z
+UID:CSVConvert3f07454a6179b6c4b3012be1a560aa5f
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week to spread a little kindness as we make Love 
+ Bug Clips to share.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Security Benefit Academy - 1 SW Security Benefit PL
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Love Bug Clips - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230730
+DTEND;VALUE=DATE:20230731
+DTSTAMP:20230512T062308Z
+UID:CSVConvert403e7e3a905043ba6a3ccad0665c2769
+CREATED:19000101T120000Z
+DESCRIPTION:Interactive puzzle pieces to learn where foods originated. Be r
+ eady for surprises!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Match Food to its Origin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230726
+DTEND;VALUE=DATE:20230727
+DTSTAMP:20230512T062308Z
+UID:CSVConvert40ac186ccafa82eafa0466bd6965a7d7
+CREATED:19000101T120000Z
+DESCRIPTION:Shake\, shake\, shake with us this week when you make your own 
+ colorful maracas on the Adventuremobile.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Auburn Community Center - 121 West 11th St\, Auburn
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Maracas! - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230627
+DTEND;VALUE=DATE:20230628
+DTSTAMP:20230512T062308Z
+UID:CSVConvert4189ba4b47963af32b2462b69708ecb8
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile and explore a wheel o
+ f emotions!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Security Benefit Academy - 1 SW Security Benefit PL
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Starburst Emotions & Spinning Wheel - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230727
+DTEND;VALUE=DATE:20230728
+DTSTAMP:20230512T062308Z
+UID:CSVConvert42be999c563560704c18a0c5101a54d1
+CREATED:19000101T120000Z
+DESCRIPTION:Play nature bingo and animal track twister. Learn why animal sc
+ at is important to biologists and make edible scat.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Nature Games and Edible Scat! - Fun at One
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230613
+DTEND;VALUE=DATE:20230614
+DTSTAMP:20230512T062308Z
+UID:CSVConvert4588f5e99d06b1c82c8fc9c3d16fd8fa
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week to spread a little kindness as we make Love 
+ Bug Clips to share.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: First Lutheran Church - 1234 SW Fairlawn Rd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Love Bug Clips - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230717
+DTEND;VALUE=DATE:20230718
+DTSTAMP:20230512T062308Z
+UID:CSVConvert46bcf60b7e99b9147345beb43ebab524
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile! We will focus on pos
+ itive thoughts and intentions while creating inspiring flags.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Countryside United Methodist Church - 3221 SW Burlingame Rd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tibetan Flags - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230723
+DTEND;VALUE=DATE:20230724
+DTSTAMP:20230512T062308Z
+UID:CSVConvert47d1e63ddf20628603d54898fa8dbae1
+CREATED:19000101T120000Z
+DESCRIPTION:Help color the large world map in the Learning Center!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Color a Huge World Map
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230624
+DTEND;VALUE=DATE:20230625
+DTSTAMP:20230512T062308Z
+UID:CSVConvert48e869f9c96f7c3abc24e1b6de10ca7e
+CREATED:19000101T120000Z
+DESCRIPTION:Join us on a scavenger hunt for your favorite book characters. 
+ The books are on the shelves\, but the characters are hiding in plain sight
+ .
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Kids Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Great Book Character Hunt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230712
+DTEND;VALUE=DATE:20230713
+DTSTAMP:20230512T062308Z
+UID:CSVConvert4ae630e9cb78bab01c9c7c62a82eca58
+CREATED:19000101T120000Z
+DESCRIPTION:I'm stuck on you! Draw a picture and make a magnet on the Adven
+ turemobile this week.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Heights of Learning - 6020 SE 44th St\, Tecumseh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Make a Magnet! - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230701
+DTEND;VALUE=DATE:20230702
+DTSTAMP:20230512T062308Z
+UID:CSVConvert4b3ffa734b8c4b6a66efe49816a228bc
+CREATED:19000101T120000Z
+DESCRIPTION:Add a touch of color to a 24" x 52" "Welcome" coloring poster w
+ ith markers provided.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:"Welcome" Wall Coloring Poster
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230713
+DTEND;VALUE=DATE:20230714
+DTSTAMP:20230512T062308Z
+UID:CSVConvert4fedc2ca1a737469e57513891b5f9bfa
+CREATED:19000101T120000Z
+DESCRIPTION:What's your favorite board game? Bring your friends and family 
+ to the library for a round of your favorite games or team up for a breakout
+  box challenge.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Board Game Bonanza - Fun at One
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230621
+DTEND;VALUE=DATE:20230622
+DTSTAMP:20230512T062308Z
+UID:CSVConvert5102f9b8f9d40bc049789a52eba588fa
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile and discover what kin
+ d of friend you are! Are you loyal\, cool & caring? Bring a friend along an
+ d we'll make bracelets.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Heights of Learning - 6020 SE 44th St\, Tecumseh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:What Kind of Friend are you? bracelet making - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230606
+DTEND;VALUE=DATE:20230607
+DTSTAMP:20230512T062308Z
+UID:CSVConvert53313eb5b91a5bf63f55b285fcaeba63
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile and discover how wond
+ erful you are and make a bookmark.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: First Lutheran Church - 1234 SW Fairlawn Rd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fantastic Me Bookmarks! - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230628
+DTEND;VALUE=DATE:20230629
+DTSTAMP:20230512T062308Z
+UID:CSVConvert5369e3c64a2bfdf5a691727d938510bb
+CREATED:19000101T120000Z
+DESCRIPTION:Vote for your favorite well-known bestie. Place a sticker dot t
+ he pictures of your favorite besties to vote.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vote for Your Bestie
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230718
+DTEND;VALUE=DATE:20230719
+DTSTAMP:20230512T062308Z
+UID:CSVConvert53e929727622af17efedf82da60714e5
+CREATED:19000101T120000Z
+DESCRIPTION:Help color the large world map in the Learning Center!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Color a Huge World Map
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230630
+DTEND;VALUE=DATE:20230701
+DTSTAMP:20230512T062308Z
+UID:CSVConvert556333924f6e985bd8c1d2e373f434cb
+CREATED:19000101T120000Z
+DESCRIPTION:Let's watch a family movie together every Friday in June & July
+ ! This week we'll watch "Encanto!" The magic of the Encanto has blessed eve
+ ry child in the family with a unique gift -- except Mirabel.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101B
+ C
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Encanto - Friday Flicks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230624
+DTEND;VALUE=DATE:20230625
+DTSTAMP:20230512T062308Z
+UID:CSVConvert58734e693219d0eba2b8c60e674b2168
+CREATED:19000101T120000Z
+DESCRIPTION:Feeling a little puzzled? Help put together a variety of puzzle
+ s. We'll have puzzles for all ages and levels available.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Puzzles for Everyone
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230629
+DTEND;VALUE=DATE:20230630
+DTSTAMP:20230512T062308Z
+UID:CSVConvert59cd1248ae4c388a7a77148b8a90e5ef
+CREATED:19000101T120000Z
+DESCRIPTION:Feeling a little puzzled? Help put together a variety of puzzle
+ s. We'll have puzzles for all ages and levels available.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Puzzles for Everyone
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230728
+DTEND;VALUE=DATE:20230729
+DTSTAMP:20230512T062308Z
+UID:CSVConvert5a8439852cfefcd597eedd43b3abb151
+CREATED:19000101T120000Z
+DESCRIPTION:Interactive puzzle pieces to learn where foods originated. Be r
+ eady for surprises!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Match Food to its Origin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230626
+DTEND;VALUE=DATE:20230627
+DTSTAMP:20230512T062308Z
+UID:CSVConvert5bbe5be457a94431ca521c3c16164cdc
+CREATED:19000101T120000Z
+DESCRIPTION:Join us on a scavenger hunt for your favorite book characters. 
+ The books are on the shelves\, but the characters are hiding in plain sight
+ .
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Kids Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Great Book Character Hunt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230711
+DTEND;VALUE=DATE:20230712
+DTSTAMP:20230512T062308Z
+UID:CSVConvert5e0e153aa2a2a5a008cf466329513a78
+CREATED:19000101T120000Z
+DESCRIPTION:Play Bilingual Bingo for prizes! Learn a little Spanish and hav
+ e a LOT of fun!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Bilingual Bingo - Fun at One
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230629
+DTEND;VALUE=DATE:20230630
+DTSTAMP:20230512T062308Z
+UID:CSVConvert5ea722e58d842e1dceb2327e5dfeb32e
+CREATED:19000101T120000Z
+DESCRIPTION:Vote for your favorite well-known bestie. Place a sticker dot t
+ he pictures of your favorite besties to vote.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vote for Your Bestie
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230712
+DTEND;VALUE=DATE:20230713
+DTSTAMP:20230512T062308Z
+UID:CSVConvert60ae63886981760d1b30de06a91a4e62
+CREATED:19000101T120000Z
+DESCRIPTION:Hannah just wants to be helpful! This little hippo finds a tiny
+  chick that was washed away in a flood. Join her on her journey to reunite 
+ her little friend with her missing family.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stone Lion Puppet Theater Helpful Hannah Hippo - Blockbuster Wednes
+ day
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230724
+DTEND;VALUE=DATE:20230725
+DTSTAMP:20230512T062308Z
+UID:CSVConvert649497be900f1c162aac33af64bb1ecd
+CREATED:19000101T120000Z
+DESCRIPTION:Interactive puzzle pieces to learn where foods originated. Be r
+ eady for surprises!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Match Food to its Origin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230620
+DTEND;VALUE=DATE:20230621
+DTSTAMP:20230512T062308Z
+UID:CSVConvert6504d0d73ab3368681b5374e692fa434
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile and discover what kin
+ d of friend you are! Are you loyal\, cool & caring? Bring a friend along an
+ d we'll make bracelets.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Security Benefit Academy - 1 SW Security Benefit PL
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:What Kind of Friend are you? bracelet making - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230720
+DTEND;VALUE=DATE:20230721
+DTSTAMP:20230512T062308Z
+UID:CSVConvert653cc2a2c7b28bfd43fc017be91cacf8
+CREATED:19000101T120000Z
+DESCRIPTION:Help color the large world map in the Learning Center!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Color a Huge World Map
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230701
+DTEND;VALUE=DATE:20230702
+DTSTAMP:20230512T062308Z
+UID:CSVConvert65a5b88b79ebd8757afe85538eedd02a
+CREATED:19000101T120000Z
+DESCRIPTION:Join us on a scavenger hunt for your favorite book characters. 
+ The books are on the shelves\, but the characters are hiding in plain sight
+ .
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Kids Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Great Book Character Hunt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230726
+DTEND;VALUE=DATE:20230727
+DTSTAMP:20230512T062308Z
+UID:CSVConvert664b7f8efab79407a38fb18744dcd338
+CREATED:19000101T120000Z
+DESCRIPTION:Discover what some birds are doing while you sleep. Watch a com
+ bination of four or five owls and learn about their hunting habits and adap
+ tive characteristics.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Operation Wildlife Night Shift - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230719
+DTEND;VALUE=DATE:20230720
+DTSTAMP:20230512T062308Z
+UID:CSVConvert6665e08d2d75cd6089c908767d1a269f
+CREATED:19000101T120000Z
+DESCRIPTION:Boogie in a rockin' dance party for the whole family! Award-win
+ ning kid rocker and author\, Jim "Mr. Stinky Feet" Cosgrove celebrates 25 y
+ ears of uniting communities through music.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mr. Stinky Feet - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230718
+DTEND;VALUE=DATE:20230719
+DTSTAMP:20230512T062308Z
+UID:CSVConvert66f3bf5ca18e4865cb2adc4b5669f46f
+CREATED:19000101T120000Z
+DESCRIPTION:Marlene & Alex Pantos will show you the equipment & techniques 
+ they use in their beekeeping business! This is your chance to learn about t
+ his job/ hobby without having to worry about being stung!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Beekeeping Demo
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230711
+DTEND;VALUE=DATE:20230712
+DTSTAMP:20230512T062308Z
+UID:CSVConvert66fb0132b6e9355145fa71651dfed26d
+CREATED:19000101T120000Z
+DESCRIPTION:I'm stuck on you! Draw a picture and make a magnet on the Adven
+ turemobile this week.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: First Lutheran Church - 1234 SW Fairlawn Rd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Make a Magnet! - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230622
+DTEND;VALUE=DATE:20230623
+DTSTAMP:20230512T062308Z
+UID:CSVConvert67e7b6928f864d55ccee148408611e51
+CREATED:19000101T120000Z
+DESCRIPTION:Add a touch of color to a 24" x 52" "Welcome" coloring poster w
+ ith markers provided.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:"Welcome" Wall Coloring Poster
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230629
+DTEND;VALUE=DATE:20230630
+DTSTAMP:20230512T062308Z
+UID:CSVConvert681321d90995061b134fa698d9e7aa6b
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile and explore a wheel o
+ f emotions!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Christ the King - 5973 SW 25th St
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Starburst Emotions & Spinning Wheel - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230712
+DTEND;VALUE=DATE:20230713
+DTSTAMP:20230512T062308Z
+UID:CSVConvert684f9ced4dfd64341cf6bfce90b80e69
+CREATED:19000101T120000Z
+DESCRIPTION:Hannah just wants to be helpful! This little hippo finds a tiny
+  chick that was washed away in a flood. Join her on her journey to reunite 
+ her little friend with her missing family.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stone Lion Puppet Theater Helpful Hannah Hippo - Blockbuster Wednes
+ day
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230722
+DTEND;VALUE=DATE:20230723
+DTSTAMP:20230512T062308Z
+UID:CSVConvert6f54dc02e10538fb56021f25dfbfc7a1
+CREATED:19000101T120000Z
+DESCRIPTION:Help color the large world map in the Learning Center!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Color a Huge World Map
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230625
+DTEND;VALUE=DATE:20230626
+DTSTAMP:20230512T062308Z
+UID:CSVConvert71af12778fd8a2c9fb803a6eaac7c63a
+CREATED:19000101T120000Z
+DESCRIPTION:Feeling a little puzzled? Help put together a variety of puzzle
+ s. We'll have puzzles for all ages and levels available.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Puzzles for Everyone
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230719
+DTEND;VALUE=DATE:20230720
+DTSTAMP:20230512T062308Z
+UID:CSVConvert71f729763a92fb32a9117d2a2f203c42
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile! We will focus on pos
+ itive thoughts and intentions while creating inspiring flags.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Auburn Community Center - 121 West 11th St\, Auburn
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tibetan Flags - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230614
+DTEND;VALUE=DATE:20230615
+DTSTAMP:20230512T062308Z
+UID:CSVConvert7308b8a217cd5a384637fd5afddc9f53
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week to spread a little kindness as we make Love 
+ Bug Clips to share.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Auburn Community Center - 121 West 11th St\, Auburn
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Love Bug Clips - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230720
+DTEND;VALUE=DATE:20230721
+DTSTAMP:20230512T062308Z
+UID:CSVConvert748390ecc583f5b2bb67383741ba0132
+CREATED:19000101T120000Z
+DESCRIPTION:Play a game and construct an edible aquifer to learn about the 
+ movement of water through our world! Experience how this incredible geologi
+ cal formation is created.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:A Water Molecule Adventure & Edible Aquifer! - Fun at One
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230711
+DTEND;VALUE=DATE:20230712
+DTSTAMP:20230512T062308Z
+UID:CSVConvert765983289a5db73d9a77b364e1ada7ce
+CREATED:19000101T120000Z
+DESCRIPTION:I'm stuck on you! Draw a picture and make a magnet on the Adven
+ turemobile this week.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Security Benefit Academy - 1 SW Security Benefit PL
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Make a Magnet! - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230624
+DTEND;VALUE=DATE:20230625
+DTSTAMP:20230512T062308Z
+UID:CSVConvert7ad2d6d09ccbda40e7d11b607534516c
+CREATED:19000101T120000Z
+DESCRIPTION:Add a touch of color to a 24" x 52" "Welcome" coloring poster w
+ ith markers provided.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:"Welcome" Wall Coloring Poster
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230712
+DTEND;VALUE=DATE:20230713
+DTSTAMP:20230512T062308Z
+UID:CSVConvert7b70f825379707ec0682b04d9d199d2e
+CREATED:19000101T120000Z
+DESCRIPTION:I'm stuck on you! Draw a picture and make a magnet on the Adven
+ turemobile this week.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Auburn Community Center - 121 West 11th St\, Auburn
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Make a Magnet! - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230630
+DTEND;VALUE=DATE:20230701
+DTSTAMP:20230512T062308Z
+UID:CSVConvert7dfecceb51baa00eeb2916c190c69c4e
+CREATED:19000101T120000Z
+DESCRIPTION:Vote for your favorite well-known bestie. Place a sticker dot t
+ he pictures of your favorite besties to vote.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vote for Your Bestie
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230607
+DTEND;VALUE=DATE:20230608
+DTSTAMP:20230512T062308Z
+UID:CSVConvert7f2b4084c6ed811d7552b3d516a2fc4f
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile and discover how wond
+ erful you are and make a bookmark.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Heights of Learning - 6020 SE 44th St\, Tecumseh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fantastic Me Bookmarks! - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230726
+DTEND;VALUE=DATE:20230727
+DTSTAMP:20230512T062308Z
+UID:CSVConvert80f75d76593fcaa628dac1fef58dd987
+CREATED:19000101T120000Z
+DESCRIPTION:Discover what some birds are doing while you sleep. Watch a com
+ bination of four or five owls and learn about their hunting habits and adap
+ tive characteristics.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Operation Wildlife Night Shift - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230622
+DTEND;VALUE=DATE:20230623
+DTSTAMP:20230512T062308Z
+UID:CSVConvert8148b08997a05189fb9a2a83657c4d3a
+CREATED:19000101T120000Z
+DESCRIPTION:Feeling a little puzzled? Help put together a variety of puzzle
+ s. We'll have puzzles for all ages and levels available.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Puzzles for Everyone
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230620
+DTEND;VALUE=DATE:20230621
+DTSTAMP:20230512T062308Z
+UID:CSVConvert8385f4558a61c3f3d1a991f2827e0738
+CREATED:19000101T120000Z
+DESCRIPTION:Vote for your favorite well-known bestie. Place a sticker dot t
+ he pictures of your favorite besties to vote.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vote for Your Bestie
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230716
+DTEND;VALUE=DATE:20230717
+DTSTAMP:20230512T062308Z
+UID:CSVConvert860b3a7c31f57ff6d3ec98b2e0dcb07a
+CREATED:19000101T120000Z
+DESCRIPTION:Write a "Thank You" note to a community helper. Share your appr
+ eciation of the various ways that people in our community help us all live\
+ , learn\, eat\, work and play!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Celebrate Community Helpers!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230628
+DTEND;VALUE=DATE:20230629
+DTSTAMP:20230512T062308Z
+UID:CSVConvert8a06cf21fadbcb10fa7234e70442ce98
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile and explore a wheel o
+ f emotions!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Heights of Learning - 6020 SE 44th St\, Tecumseh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Starburst Emotions & Spinning Wheel - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230628
+DTEND;VALUE=DATE:20230629
+DTSTAMP:20230512T062308Z
+UID:CSVConvert8f0ef42e2e3422f577bee39cc0a6a460
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile and explore a wheel o
+ f emotions!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Auburn Community Center - 121 West 11th St\, Auburn
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Starburst Emotions & Spinning Wheel - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230703
+DTEND;VALUE=DATE:20230704
+DTSTAMP:20230512T062308Z
+UID:CSVConvert8f1e6e7c12c3af2dbda4b54eb98ba5b1
+CREATED:19000101T120000Z
+DESCRIPTION:Pose with our life-sized photo of Mayor Padilla and fill-in-the
+ -blanks on your Letter to the Mayor. Share what you are glad about and what
+  you want to change in Topeka. Letters will be delivered!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Write the Mayor a Letter!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230621
+DTEND;VALUE=DATE:20230622
+DTSTAMP:20230512T062308Z
+UID:CSVConvert9279fb2ac9431ab445c7a31947112aa5
+CREATED:19000101T120000Z
+DESCRIPTION:Join us on a scavenger hunt for your favorite book characters. 
+ The books are on the shelves\, but the characters are hiding in plain sight
+ .
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Kids Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Great Book Character Hunt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230619
+DTEND;VALUE=DATE:20230620
+DTSTAMP:20230512T062308Z
+UID:CSVConvert92b120a4b6fe70214dbcc467991127db
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile and discover what kin
+ d of friend you are! Are you loyal\, cool & caring? Bring a friend along an
+ d we'll make bracelets.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Countryside United Methodist Church - 3221 SW Burlingame Rd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:What Kind of Friend are you? bracelet making - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230714
+DTEND;VALUE=DATE:20230715
+DTSTAMP:20230512T062308Z
+UID:CSVConvert92bc14b3afea57da35cc3ac1a59fdcf3
+CREATED:19000101T120000Z
+DESCRIPTION:Let's watch a family movie together every Friday in June & July
+ ! This week we'll watch "Zootopia!" Officer Judy Hopps jumps at the opportu
+ nity to solve a mysterious case.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101B
+ C
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Zootopia - Friday Flicks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230616
+DTEND;VALUE=DATE:20230617
+DTSTAMP:20230512T062308Z
+UID:CSVConvert9373695bc80f8c9174334704e6745543
+CREATED:19000101T120000Z
+DESCRIPTION:Let's watch a family movie together every Friday in June & July
+ ! This week we'll watch "Wonder!" Auggie Pullman becomes the most unlikely 
+ of heroes when he enters the local school's 5th grade.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101B
+ C
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Wonder - Friday Flicks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230630
+DTEND;VALUE=DATE:20230701
+DTSTAMP:20230512T062308Z
+UID:CSVConvert950a86725c5b77d3e897e8c76ecc3666
+CREATED:19000101T120000Z
+DESCRIPTION:Feeling a little puzzled? Help put together a variety of puzzle
+ s. We'll have puzzles for all ages and levels available.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Puzzles for Everyone
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230615
+DTEND;VALUE=DATE:20230616
+DTSTAMP:20230512T062308Z
+UID:CSVConvert962de959191e1b931a25a65576ecb52e
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week to spread a little kindness as we make Love 
+ Bug Clips to share.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Christ the King - 5973 SW 25th St
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Love Bug Clips - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230727
+DTEND;VALUE=DATE:20230728
+DTSTAMP:20230512T062308Z
+UID:CSVConvert976b16b9846c67c2fd14cd122cd7f8c6
+CREATED:19000101T120000Z
+DESCRIPTION:Shake\, shake\, shake with us this week when you make your own 
+ colorful maracas on the Adventuremobile.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Christ the King - 5973 SW 25th St
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Maracas! - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230623
+DTEND;VALUE=DATE:20230624
+DTSTAMP:20230512T062308Z
+UID:CSVConvert9baac183c18ffed2ed4d74727ed0ba57
+CREATED:19000101T120000Z
+DESCRIPTION:Add a touch of color to a 24" x 52" "Welcome" coloring poster w
+ ith markers provided.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:"Welcome" Wall Coloring Poster
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230708
+DTEND;VALUE=DATE:20230709
+DTSTAMP:20230512T062308Z
+UID:CSVConvert9c35fcaa0cbf7beccc2cbf963bc7eef6
+CREATED:19000101T120000Z
+DESCRIPTION:Pose with our life-sized photo of Mayor Padilla and fill-in-the
+ -blanks on your Letter to the Mayor. Share what you are glad about and what
+  you want to change in Topeka. Letters will be delivered!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Write the Mayor a Letter!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230623
+DTEND;VALUE=DATE:20230624
+DTSTAMP:20230512T062308Z
+UID:CSVConvert9fe8f9785f32968212ef9d87dcde515a
+CREATED:19000101T120000Z
+DESCRIPTION:Join us on a scavenger hunt for your favorite book characters. 
+ The books are on the shelves\, but the characters are hiding in plain sight
+ .
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Kids Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Great Book Character Hunt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230715
+DTEND;VALUE=DATE:20230716
+DTSTAMP:20230512T062308Z
+UID:CSVConverta14c38a4f075a027c3c2b89c5df95ca8
+CREATED:19000101T120000Z
+DESCRIPTION:Write a "Thank You" note to a community helper. Share your appr
+ eciation of the various ways that people in our community help us all live\
+ , learn\, eat\, work and play!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Celebrate Community Helpers!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230621
+DTEND;VALUE=DATE:20230622
+DTSTAMP:20230512T062308Z
+UID:CSVConverta160bb51ae0e7cd415315f89a45fe42e
+CREATED:19000101T120000Z
+DESCRIPTION:Watch a high-energy mix of award-winning juggling\, audience an
+ tic\, and personable wit! An international Jugglers' Association Team champ
+ ion\, Brian has an incredible range of skills.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Juggler & Comedian Brian Wendling - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230711
+DTEND;VALUE=DATE:20230712
+DTSTAMP:20230512T062308Z
+UID:CSVConverta2eedcf0d7f177d08cc39c49e3855ade
+CREATED:19000101T120000Z
+DESCRIPTION:Write a "Thank You" note to a community helper. Share your appr
+ eciation of the various ways that people in our community help us all live\
+ , learn\, eat\, work and play!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Celebrate Community Helpers!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230719
+DTEND;VALUE=DATE:20230720
+DTSTAMP:20230512T062308Z
+UID:CSVConverta49430391e1e2e23c9758d0a7a36db07
+CREATED:19000101T120000Z
+DESCRIPTION:Boogie in a rockin' dance party for the whole family! Award-win
+ ning kid rocker and author\, Jim "Mr. Stinky Feet" Cosgrove celebrates 25 y
+ ears of uniting communities through music.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mr. Stinky Feet - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230605
+DTEND;VALUE=DATE:20230606
+DTSTAMP:20230512T062308Z
+UID:CSVConverta5c9b3f7e60dbe553156a7f8616a91ca
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile and discover how wond
+ erful you are and make a bookmark.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Countryside United Methodist Church - 3221 SW Burlingame Rd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fantastic Me Bookmarks! - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230712
+DTEND;VALUE=DATE:20230713
+DTSTAMP:20230512T062308Z
+UID:CSVConverta64e38d322cd05325ac2ebb0c50cc3af
+CREATED:19000101T120000Z
+DESCRIPTION:Hannah just wants to be helpful! This little hippo finds a tiny
+  chick that was washed away in a flood. Join her on her journey to reunite 
+ her little friend with her missing family.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Stone Lion Puppet Theater Helpful Hannah Hippo - Blockbuster Wednes
+ day
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230726
+DTEND;VALUE=DATE:20230727
+DTSTAMP:20230512T062308Z
+UID:CSVConverta771e6e1fbea3e82bd13700fb70c2b38
+CREATED:19000101T120000Z
+DESCRIPTION:Back by popular demand\, the one and only Joseph Stringer is he
+ re to wrap up your summer with an amazingly fun magic show! Watch his comed
+ y magic show based on Fischer Price toys.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Joseph Stringer Magic & Comedy - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230726
+DTEND;VALUE=DATE:20230727
+DTSTAMP:20230512T062308Z
+UID:CSVConverta8172d5adc99f782c7ebac306e83e940
+CREATED:19000101T120000Z
+DESCRIPTION:Shake\, shake\, shake with us this week when you make your own 
+ colorful maracas on the Adventuremobile.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Heights of Learning - 6020 SE 44th St\, Tecumseh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Maracas! - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230724
+DTEND;VALUE=DATE:20230725
+DTSTAMP:20230512T062308Z
+UID:CSVConvertaad95e02fa1f6c7a49e9f9e76a5cd68f
+CREATED:19000101T120000Z
+DESCRIPTION:Shake\, shake\, shake with us this week when you make your own 
+ colorful maracas on the Adventuremobile.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Countryside United Methodist Church - 3221 SW Burlingame Rd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Maracas! - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230622
+DTEND;VALUE=DATE:20230623
+DTSTAMP:20230512T062308Z
+UID:CSVConvertac29753bef9340c43ead59f50e59c927
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile and discover what kin
+ d of friend you are! Are you loyal\, cool & caring? Bring a friend along an
+ d we'll make bracelets.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Christ the King - 5973 SW 25th St
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:What Kind of Friend are you? bracelet making - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230712
+DTEND;VALUE=DATE:20230713
+DTSTAMP:20230512T062308Z
+UID:CSVConvertac5dde9c85a7d6a5d07da9ff975f7c9d
+CREATED:19000101T120000Z
+DESCRIPTION:Write a "Thank You" note to a community helper. Share your appr
+ eciation of the various ways that people in our community help us all live\
+ , learn\, eat\, work and play!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Celebrate Community Helpers!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230625
+DTEND;VALUE=DATE:20230626
+DTSTAMP:20230512T062308Z
+UID:CSVConvertad4f767ccddb5d15f1cc54308e5de2c5
+CREATED:19000101T120000Z
+DESCRIPTION:Join us on a scavenger hunt for your favorite book characters. 
+ The books are on the shelves\, but the characters are hiding in plain sight
+ .
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Kids Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Great Book Character Hunt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230705
+DTEND;VALUE=DATE:20230706
+DTSTAMP:20230512T062308Z
+UID:CSVConvertada365ea9d47280c602a46b36310fbef
+CREATED:19000101T120000Z
+DESCRIPTION:Pose with our life-sized photo of Mayor Padilla and fill-in-the
+ -blanks on your Letter to the Mayor. Share what you are glad about and what
+  you want to change in Topeka. Letters will be delivered!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Write the Mayor a Letter!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230719
+DTEND;VALUE=DATE:20230720
+DTSTAMP:20230512T062308Z
+UID:CSVConvertafe4dd8b4dc2bc28f4117c035ae65364
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile! We will focus on pos
+ itive thoughts and intentions while creating inspiring flags.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Heights of Learning - 6020 SE 44th St\, Tecumseh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tibetan Flags - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230628
+DTEND;VALUE=DATE:20230629
+DTSTAMP:20230512T062308Z
+UID:CSVConvertb09cdd9f11e4778b7d316c1f7ff8988c
+CREATED:19000101T120000Z
+DESCRIPTION:Let's take a trip around the world! Dino & the T-Rex Trio trans
+ port us to all 7 continents highlighting interesting details about history\
+ , sports\, animals\, food and weather.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dino O'Dell and the T-Rex Trio - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230729
+DTEND;VALUE=DATE:20230730
+DTSTAMP:20230512T062308Z
+UID:CSVConvertb0c23e51b182e8b61656c161b7481c46
+CREATED:19000101T120000Z
+DESCRIPTION:Interactive puzzle pieces to learn where foods originated. Be r
+ eady for surprises!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Match Food to its Origin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230626
+DTEND;VALUE=DATE:20230627
+DTSTAMP:20230512T062308Z
+UID:CSVConvertb3886061092340694905e40197ca33de
+CREATED:19000101T120000Z
+DESCRIPTION:Create friendship pins or personalized buttons you can share wi
+ th your friends.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Friendship Pins & Buttons
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230621
+DTEND;VALUE=DATE:20230622
+DTSTAMP:20230512T062308Z
+UID:CSVConvertb45574c7816f9d06d4b7b035b66c3b89
+CREATED:19000101T120000Z
+DESCRIPTION:Feeling a little puzzled? Help put together a variety of puzzle
+ s. We'll have puzzles for all ages and levels available.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Puzzles for Everyone
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230714
+DTEND;VALUE=DATE:20230715
+DTSTAMP:20230512T062308Z
+UID:CSVConvertb50e36ca87d17691fa7c0ff41be1e96c
+CREATED:19000101T120000Z
+DESCRIPTION:Write a "Thank You" note to a community helper. Share your appr
+ eciation of the various ways that people in our community help us all live\
+ , learn\, eat\, work and play!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Celebrate Community Helpers!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230705
+DTEND;VALUE=DATE:20230706
+DTSTAMP:20230512T062308Z
+UID:CSVConvertb636a89090ab34fb0911b69a62a2a9d7
+CREATED:19000101T120000Z
+DESCRIPTION:Be a friend to Mother Nature! Visit us on the Adventuremobile a
+ nd plant butterfly milkweed seeds.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Auburn Community Center - 121 West 11th St\, Auburn
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Help the Monarchs! Plant butterfly milkweed seeds - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230726
+DTEND;VALUE=DATE:20230727
+DTSTAMP:20230512T062308Z
+UID:CSVConvertbc450eaddbce511c0ec3b03118d3db0a
+CREATED:19000101T120000Z
+DESCRIPTION:Interactive puzzle pieces to learn where foods originated. Be r
+ eady for surprises!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Match Food to its Origin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230619
+DTEND;VALUE=DATE:20230620
+DTSTAMP:20230512T062308Z
+UID:CSVConvertbd4d3ce8dbed4feb08c5042c3735793d
+CREATED:19000101T120000Z
+DESCRIPTION:Add a touch of color to a 24" x 52" "Welcome" coloring poster w
+ ith markers provided.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:"Welcome" Wall Coloring Poster
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230621
+DTEND;VALUE=DATE:20230622
+DTSTAMP:20230512T062308Z
+UID:CSVConvertbdd85f78e75336f19ecc52ded5903983
+CREATED:19000101T120000Z
+DESCRIPTION:Watch a high-energy mix of award-winning juggling\, audience an
+ tic\, and personable wit! An international Jugglers' Association Team champ
+ ion\, Brian has an incredible range of skills.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Juggler & Comedian Brian Wendling - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230721
+DTEND;VALUE=DATE:20230722
+DTSTAMP:20230512T062308Z
+UID:CSVConvertbec6cbe42d19c61c2112908344dc73c9
+CREATED:19000101T120000Z
+DESCRIPTION:Help color the large world map in the Learning Center!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Color a Huge World Map
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230629
+DTEND;VALUE=DATE:20230630
+DTSTAMP:20230512T062308Z
+UID:CSVConvertbf51651e8514da3fa12bb915b41fea8c
+CREATED:19000101T120000Z
+DESCRIPTION:Add a touch of color to a 24" x 52" "Welcome" coloring poster w
+ ith markers provided.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:"Welcome" Wall Coloring Poster
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230707
+DTEND;VALUE=DATE:20230708
+DTSTAMP:20230512T062308Z
+UID:CSVConvertc0656c2040e62650b68b969bfd755181
+CREATED:19000101T120000Z
+DESCRIPTION:Let's watch a family movie together every Friday in June & July
+ ! This week we'll watch "Vivo!" They don't speak the same language\, but Vi
+ vo and Andrés are the perfect duo through their love of music.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101B
+ C
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vivo - Friday Flicks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230706
+DTEND;VALUE=DATE:20230707
+DTSTAMP:20230512T062308Z
+UID:CSVConvertc1fc54e32f59867eb6c360ac4d675918
+CREATED:19000101T120000Z
+DESCRIPTION:Pose with our life-sized photo of Mayor Padilla and fill-in-the
+ -blanks on your Letter to the Mayor. Share what you are glad about and what
+  you want to change in Topeka. Letters will be delivered!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Write the Mayor a Letter!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230626
+DTEND;VALUE=DATE:20230627
+DTSTAMP:20230512T062308Z
+UID:CSVConvertc3e4a414c0e8893b5288f0ef5ca784d1
+CREATED:19000101T120000Z
+DESCRIPTION:Vote for your favorite well-known bestie. Place a sticker dot t
+ he pictures of your favorite besties to vote.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vote for Your Bestie
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230701
+DTEND;VALUE=DATE:20230702
+DTSTAMP:20230512T062308Z
+UID:CSVConvertc76112fe10f45fa977482d56f61605b5
+CREATED:19000101T120000Z
+DESCRIPTION:Vote for your favorite well-known bestie. Place a sticker dot t
+ he pictures of your favorite besties to vote.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vote for Your Bestie
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230728
+DTEND;VALUE=DATE:20230729
+DTSTAMP:20230512T062308Z
+UID:CSVConvertc798102403096e967f838b29b3b91e42
+CREATED:19000101T120000Z
+DESCRIPTION:Let's watch a family movie together every Friday in June & July
+ ! This week we'll watch "Wall-E!" WALL-E\, short for Waste Allocation Load 
+ Lifter Earth-class\, is the last robot left on Earth.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Wall-E - Friday Flicks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230623
+DTEND;VALUE=DATE:20230624
+DTSTAMP:20230512T062308Z
+UID:CSVConvertc7be1455fa8d10ce1084b0be89004a45
+CREATED:19000101T120000Z
+DESCRIPTION:Let's watch a family movie together every Friday in June & July
+ ! This week we'll watch "Monsters\, Inc.!" Monsters Sully and Mike have an 
+ unexpected human visitor at the scare factory.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101B
+ C
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Monsters\, Inc. - Friday Flicks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230718
+DTEND;VALUE=DATE:20230719
+DTSTAMP:20230512T062308Z
+UID:CSVConvertca925fa162fb9e645b3bffb71ca4bb94
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile! We will focus on pos
+ itive thoughts and intentions while creating inspiring flags.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Security Benefit Academy - 1 SW Security Benefit PL
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tibetan Flags - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230705
+DTEND;VALUE=DATE:20230706
+DTSTAMP:20230512T062308Z
+UID:CSVConvertcc89006cd8d1c71cc649f98255f23fee
+CREATED:19000101T120000Z
+DESCRIPTION:Science is Astounding ? We are all in this together! Volunteers
+  be asked to help out create chemical reactions to show sometimes it takes 
+ more than one to make incredible things happen.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mad Science - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230725
+DTEND;VALUE=DATE:20230726
+DTSTAMP:20230512T062308Z
+UID:CSVConvertccb960f1ebf7f758bf9434e420f86ad5
+CREATED:19000101T120000Z
+DESCRIPTION:Make an old-time pirate map by learning to distress paper! Yar\
+ , mateys!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Make a Pirate Map - Fun at One
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230608
+DTEND;VALUE=DATE:20230609
+DTSTAMP:20230512T062308Z
+UID:CSVConvertcd22b3e32744171af0de1c0dc7c2674b
+CREATED:19000101T120000Z
+DESCRIPTION:Explore the amazing process of tie dye using bright vibrant col
+ ors. You will have a chance to design something unique\, just like you. We'
+ ll provide a fabric bag and all the materials you need.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Parking - East Lot
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tie Dye - Fun at One
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230625
+DTEND;VALUE=DATE:20230626
+DTSTAMP:20230512T062308Z
+UID:CSVConvertce66d6d7fdf4b60e7883e98d1aeac695
+CREATED:19000101T120000Z
+DESCRIPTION:Vote for your favorite well-known bestie. Place a sticker dot t
+ he pictures of your favorite besties to vote.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vote for Your Bestie
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230609
+DTEND;VALUE=DATE:20230610
+DTSTAMP:20230512T062308Z
+UID:CSVConvertd09b75c44924bfaee2aac2f8628ebedd
+CREATED:19000101T120000Z
+DESCRIPTION:Let's watch a family movie together every Friday in June & July
+ ! This week we'll watch "Coco!" Miguel dreams of being a musician. Ready to
+  prove his talent\, Miguel gets lost in the Land of the Dead.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101B
+ C
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Coco - Friday Flicks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230719
+DTEND;VALUE=DATE:20230720
+DTSTAMP:20230512T062308Z
+UID:CSVConvertd0c8cec3d44fba60e340799575b67b0c
+CREATED:19000101T120000Z
+DESCRIPTION:Help color the large world map in the Learning Center!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Color a Huge World Map
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230615
+DTEND;VALUE=DATE:20230616
+DTSTAMP:20230512T062308Z
+UID:CSVConvertd20de438e459bfeff77eff8af525bf3d
+CREATED:19000101T120000Z
+DESCRIPTION:See live up-close animals of the night. The Topeka Zoo will be 
+ here to educate you about what animals do during the night. We'll also have
+  activities to prepare you for a night walk.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Animals of the Night - Fun at One
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230626
+DTEND;VALUE=DATE:20230627
+DTSTAMP:20230512T062308Z
+UID:CSVConvertd226133c037146d0c82e574b0ddf3970
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile and explore a wheel o
+ f emotions!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Countryside United Methodist Church - 3221 SW Burlingame Rd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Starburst Emotions & Spinning Wheel - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230629
+DTEND;VALUE=DATE:20230630
+DTSTAMP:20230512T062308Z
+UID:CSVConvertd3bce66bd641f9f1736fd5e5a03aa724
+CREATED:19000101T120000Z
+DESCRIPTION:Join us on a scavenger hunt for your favorite book characters. 
+ The books are on the shelves\, but the characters are hiding in plain sight
+ .
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Kids Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Great Book Character Hunt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230607
+DTEND;VALUE=DATE:20230608
+DTSTAMP:20230512T062308Z
+UID:CSVConvertd445dd8f5e0f6de69e1e18de88c4612d
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile and discover how wond
+ erful you are and make a bookmark.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Auburn Community Center - 121 West 11th St\, Auburn
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fantastic Me Bookmarks! - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230614
+DTEND;VALUE=DATE:20230615
+DTSTAMP:20230512T062308Z
+UID:CSVConvertd46a102140dfbb5a17604ff2fa48634f
+CREATED:19000101T120000Z
+DESCRIPTION:Prepare to be dazzled with mind reading\, crafty card tricks\, 
+ & Jack's zany personality! Jack has 10 years in the art and was named Kansa
+ s City's Closeup Magician of the Year. This is an amazing show.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Jack Reid Magic - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230721
+DTEND;VALUE=DATE:20230722
+DTSTAMP:20230512T062308Z
+UID:CSVConvertd61a45d576690b8165f146cbe2f475d4
+CREATED:19000101T120000Z
+DESCRIPTION:Let's watch a family movie together every Friday in June & July
+ ! This week we'll have a "Moana" singalong! Moana fulfills the ancient ques
+ t of her ancestors and discovers her own identity.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Moana Singalong - Friday Flicks
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230622
+DTEND;VALUE=DATE:20230623
+DTSTAMP:20230512T062308Z
+UID:CSVConvertd6e259a8228da9f7f5113c1e99ea70cf
+CREATED:19000101T120000Z
+DESCRIPTION:Vote for your favorite well-known bestie. Place a sticker dot t
+ he pictures of your favorite besties to vote.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vote for Your Bestie
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230622
+DTEND;VALUE=DATE:20230623
+DTSTAMP:20230512T062308Z
+UID:CSVConvertd78e7316e91f31652dc689a175904f62
+CREATED:19000101T120000Z
+DESCRIPTION:Join us on a scavenger hunt for your favorite book characters. 
+ The books are on the shelves\, but the characters are hiding in plain sight
+ .
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Kids Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Great Book Character Hunt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230621
+DTEND;VALUE=DATE:20230622
+DTSTAMP:20230512T062308Z
+UID:CSVConvertd83a8539b13345900e5a945c3fcae19e
+CREATED:19000101T120000Z
+DESCRIPTION:Add a touch of color to a 24" x 52" "Welcome" coloring poster w
+ ith markers provided.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:"Welcome" Wall Coloring Poster
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230607
+DTEND;VALUE=DATE:20230608
+DTSTAMP:20230512T062308Z
+UID:CSVConvertd962053f316383c7e1ceadc1df5455d1
+CREATED:19000101T120000Z
+DESCRIPTION:Get in the rhythm with this unique experience! Seaman High Scho
+ ol musicians entertain you with cool beats & sounds. Families with kids who
+  can take the noise & excitement will love this local talent!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Seaman High School "Viking Steel" Band - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230620
+DTEND;VALUE=DATE:20230621
+DTSTAMP:20230512T062308Z
+UID:CSVConvertdc742cee937d8f4e18b39f8ec789367c
+CREATED:19000101T120000Z
+DESCRIPTION:Add a touch of color to a 24" x 52" "Welcome" coloring poster w
+ ith markers provided.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:"Welcome" Wall Coloring Poster
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230705
+DTEND;VALUE=DATE:20230706
+DTSTAMP:20230512T062308Z
+UID:CSVConvertdcdfd937b9d07369d3145b1f30206942
+CREATED:19000101T120000Z
+DESCRIPTION:Science is Astounding ? We are all in this together! Volunteers
+  be asked to help out create chemical reactions to show sometimes it takes 
+ more than one to make incredible things happen.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mad Science - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230607
+DTEND;VALUE=DATE:20230608
+DTSTAMP:20230512T062308Z
+UID:CSVConvertde3ded3625288e2193e42d7eb7e3edd8
+CREATED:19000101T120000Z
+DESCRIPTION:Watch hawks\, falcons and owls from the Dayshift and Nightshift
+  programs for five or six raptors. You'll learn about the hunting habits an
+ d adaptive characteristics of the birds presented.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Operation Wildlife Deluxe Raptor - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230710
+DTEND;VALUE=DATE:20230711
+DTSTAMP:20230512T062308Z
+UID:CSVConverte2fa696f8d5176ef13476d1b90111f8e
+CREATED:19000101T120000Z
+DESCRIPTION:Write a "Thank You" note to a community helper. Share your appr
+ eciation of the various ways that people in our community help us all live\
+ , learn\, eat\, work and play!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Celebrate Community Helpers!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230628
+DTEND;VALUE=DATE:20230629
+DTSTAMP:20230512T062308Z
+UID:CSVConverte42739d14fd70a08c4d9d475a5fb3da5
+CREATED:19000101T120000Z
+DESCRIPTION:Add a touch of color to a 24" x 52" "Welcome" coloring poster w
+ ith markers provided.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:"Welcome" Wall Coloring Poster
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230710
+DTEND;VALUE=DATE:20230711
+DTSTAMP:20230512T062308Z
+UID:CSVConverte6cfc77d9155f7b0db02026cfdf89add
+CREATED:19000101T120000Z
+DESCRIPTION:A guest chef or dietician shares budget friendly family cooking
+  tips and recipes\, while you enjoy samples. Create your own conversation k
+ its\, plus take home ingredients to make two recipes together.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Family Dinner Project - Learning through food\, fun & conversation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230628
+DTEND;VALUE=DATE:20230629
+DTSTAMP:20230512T062308Z
+UID:CSVConverteb8c1f6bfc3e8ffde18569b6c971ceb5
+CREATED:19000101T120000Z
+DESCRIPTION:Join us on a scavenger hunt for your favorite book characters. 
+ The books are on the shelves\, but the characters are hiding in plain sight
+ .
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Kids Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Great Book Character Hunt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230628
+DTEND;VALUE=DATE:20230629
+DTSTAMP:20230512T062308Z
+UID:CSVConvertebbcb8e5b03af8fec822002461b2a2d4
+CREATED:19000101T120000Z
+DESCRIPTION:Let's take a trip around the world! Dino & the T-Rex Trio trans
+ port us to all 7 continents highlighting interesting details about history\
+ , sports\, animals\, food and weather.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Dino O'Dell and the T-Rex Trio - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230627
+DTEND;VALUE=DATE:20230628
+DTSTAMP:20230512T062308Z
+UID:CSVConvertec667c3b5f6cb97a3fa14d8456466586
+CREATED:19000101T120000Z
+DESCRIPTION:Feeling a little puzzled? Help put together a variety of puzzle
+ s. We'll have puzzles for all ages and levels available.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Puzzles for Everyone
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230621
+DTEND;VALUE=DATE:20230622
+DTSTAMP:20230512T062308Z
+UID:CSVConvertecbc901b84938f099d6515bfb2bbb21e
+CREATED:19000101T120000Z
+DESCRIPTION:Vote for your favorite well-known bestie. Place a sticker dot t
+ he pictures of your favorite besties to vote.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vote for Your Bestie
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230619
+DTEND;VALUE=DATE:20230620
+DTSTAMP:20230512T062308Z
+UID:CSVConverted01e5bd22217d29b7eb065608928a37
+CREATED:19000101T120000Z
+DESCRIPTION:Join us on a scavenger hunt for your favorite book characters. 
+ The books are on the shelves\, but the characters are hiding in plain sight
+ .
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Kids Library
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:The Great Book Character Hunt
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230614
+DTEND;VALUE=DATE:20230615
+DTSTAMP:20230512T062308Z
+UID:CSVConverted0fcbb166d07db8196706411ef74a22
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week to spread a little kindness as we make Love 
+ Bug Clips to share.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Heights of Learning - 6020 SE 44th St\, Tecumseh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Love Bug Clips - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230722
+DTEND;VALUE=DATE:20230723
+DTSTAMP:20230512T062308Z
+UID:CSVConvertedcf3fdb3290d085ff415e88ce67dda9
+CREATED:19000101T120000Z
+DESCRIPTION:Make your own rad nature journal!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Nature Journals
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230701
+DTEND;VALUE=DATE:20230702
+DTSTAMP:20230512T062308Z
+UID:CSVConverteecdcd62f3b7d85a29c0fc490df4efb5
+CREATED:19000101T120000Z
+DESCRIPTION:Feeling a little puzzled? Help put together a variety of puzzle
+ s. We'll have puzzles for all ages and levels available.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Puzzles for Everyone
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230725
+DTEND;VALUE=DATE:20230726
+DTSTAMP:20230512T062308Z
+UID:CSVConvertef43db17eb36e19792721dbf77b37493
+CREATED:19000101T120000Z
+DESCRIPTION:Interactive puzzle pieces to learn where foods originated. Be r
+ eady for surprises!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Match Food to its Origin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230606
+DTEND;VALUE=DATE:20230607
+DTSTAMP:20230512T062308Z
+UID:CSVConvertef5bf149f7139eb62f7826191bac431e
+CREATED:19000101T120000Z
+DESCRIPTION:Storyteller Priscilla Howe brings you a collection of songs\, s
+ tories and silliness to celebrate friendship\, kindness\, and courage. Some
+  of her ridiculous handpuppets will come along for the ride.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Storyteller Priscilla Howe: Songs\, stories & silliness - Fun at On
+ e
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230626
+DTEND;VALUE=DATE:20230627
+DTSTAMP:20230512T062308Z
+UID:CSVConvertef8c74b3a3c2946f438d2d267ae10e37
+CREATED:19000101T120000Z
+DESCRIPTION:Feeling a little puzzled? Help put together a variety of puzzle
+ s. We'll have puzzles for all ages and levels available.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Puzzles for Everyone
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230619
+DTEND;VALUE=DATE:20230620
+DTSTAMP:20230512T062308Z
+UID:CSVConvertf02373f8ab7c43940eb0e6d67ab5c021
+CREATED:19000101T120000Z
+DESCRIPTION:Vote for your favorite well-known bestie. Place a sticker dot t
+ he pictures of your favorite besties to vote.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vote for Your Bestie
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230713
+DTEND;VALUE=DATE:20230714
+DTSTAMP:20230512T062308Z
+UID:CSVConvertf068d26d5d6d681102df0ae124698ac9
+CREATED:19000101T120000Z
+DESCRIPTION:Write a "Thank You" note to a community helper. Share your appr
+ eciation of the various ways that people in our community help us all live\
+ , learn\, eat\, work and play!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Celebrate Community Helpers!
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230717
+DTEND;VALUE=DATE:20230718
+DTSTAMP:20230512T062308Z
+UID:CSVConvertf09bf580fb6228e159667f50382cc5b4
+CREATED:19000101T120000Z
+DESCRIPTION:Paint a pre-designed storm drain cover at the Topeka Zoo! Regis
+ ter as a team of 2. We'll have a follow-up session 10am July 19 to finalize
+  your painting. Limit 16 people (8 teams).
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka Zoo Pavilion
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Paint a Storm Drain Cover with a Friend
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230614
+DTEND;VALUE=DATE:20230615
+DTSTAMP:20230512T062308Z
+UID:CSVConvertf48aadaeef0d337459d42cde4caf67e9
+CREATED:19000101T120000Z
+DESCRIPTION:Prepare to be dazzled with mind reading\, crafty card tricks\, 
+ & Jack's zany personality! Jack has 10 years in the art and was named Kansa
+ s City's Closeup Magician of the Year. This is an amazing show.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Jack Reid Magic - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230612
+DTEND;VALUE=DATE:20230613
+DTSTAMP:20230512T062308Z
+UID:CSVConvertf48ece29812ddfc068c66be6bdf13092
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week to spread a little kindness as we make Love 
+ Bug Clips to share.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Countryside United Methodist Church - 3221 SW Burlingame Rd
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Love Bug Clips - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230720
+DTEND;VALUE=DATE:20230721
+DTSTAMP:20230512T062308Z
+UID:CSVConvertf57659c194a5e758be0d273aef5a86fd
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile! We will focus on pos
+ itive thoughts and intentions while creating inspiring flags.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Christ the King - 5973 SW 25th St
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Tibetan Flags - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230621
+DTEND;VALUE=DATE:20230622
+DTSTAMP:20230512T062308Z
+UID:CSVConvertf58a7aeef49fd5c7893a9015aafbc367
+CREATED:19000101T120000Z
+DESCRIPTION:Watch a high-energy mix of award-winning juggling\, audience an
+ tic\, and personable wit! An international Jugglers' Association Team champ
+ ion\, Brian has an incredible range of skills.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Marvin Auditorium 101A
+ BC
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Juggler & Comedian Brian Wendling - Blockbuster Wednesday
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230712
+DTEND;VALUE=DATE:20230713
+DTSTAMP:20230512T062308Z
+UID:CSVConvertf5ce907eb791a807123637a3a9eb157a
+CREATED:19000101T120000Z
+DESCRIPTION:Learn how to use the equipment\, then practice and play in the 
+ audio and video recording studios in Level 2 Tech Center.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Topeka and Shawnee County Public Library - Recording Studio B (au
+ dio+video)\,Recording Studio A (audio)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Podcasting and Beyond for Teens - Level 2 Tech Center Orientation
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230727
+DTEND;VALUE=DATE:20230728
+DTSTAMP:20230512T062308Z
+UID:CSVConvertf7385441ae6a71db0726b79c37ccb096
+CREATED:19000101T120000Z
+DESCRIPTION:Interactive puzzle pieces to learn where foods originated. Be r
+ eady for surprises!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Match Food to its Origin
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230717
+DTEND;VALUE=DATE:20230718
+DTSTAMP:20230512T062308Z
+UID:CSVConvertf8abd6517111a5d9032b3b08fc135a2a
+CREATED:19000101T120000Z
+DESCRIPTION:Help color the large world map in the Learning Center!
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Learning Center
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Color a Huge World Map
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230705
+DTEND;VALUE=DATE:20230706
+DTSTAMP:20230512T062308Z
+UID:CSVConvertf9a1b2ba8095b36c6e9707b12524f567
+CREATED:19000101T120000Z
+DESCRIPTION:Be a friend to Mother Nature! Visit us on the Adventuremobile a
+ nd plant butterfly milkweed seeds.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Heights of Learning - 6020 SE 44th St\, Tecumseh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Help the Monarchs! Plant butterfly milkweed seeds - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230606
+DTEND;VALUE=DATE:20230607
+DTSTAMP:20230512T062308Z
+UID:CSVConvertfb9011db35696975148a05ca853fdb1b
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile and discover how wond
+ erful you are and make a bookmark.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Security Benefit Academy - 1 SW Secruity Benefit PL
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Fantastic Me Bookmarks! - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20230621
+DTEND;VALUE=DATE:20230622
+DTSTAMP:20230512T062308Z
+UID:CSVConvertfd55b5b2c1d0edd9634e67ef69d546ff
+CREATED:19000101T120000Z
+DESCRIPTION:Visit us this week on the Adventuremobile and discover what kin
+ d of friend you are! Are you loyal\, cool & caring? Bring a friend along an
+ d we'll make bracelets.
+LAST-MODIFIED:20230512T055012Z
+LOCATION: Auburn Community Center - 121 West 11th St\, Auburn
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:What Kind of Friend are you? bracelet making - Adventuremobile
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
