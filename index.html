@@ -26,65 +26,58 @@
     <img src="https://www.mrs-lodges-library.com/hubfs/shelve-it/spines/fic/spine6.png" draggable="true" class="image">
   </div>
   <button id="checkOrder">Check Order</button>
-  <script>
-    const imageContainer = document.querySelector('.image-container');
-    const checkOrderButton = document.getElementById('checkOrder');
-    let images = document.querySelectorAll('.image');
+<script>const imageContainer = document.querySelector('.image-container');
+const checkOrderButton = document.getElementById('checkOrder');
+let images = document.querySelectorAll('.image');
 
-    let correctOrder = ['spine8.jpg', 'spine7.jpg', 'spine6.jpg']; // Replace with your correct order
+let correctOrder = ['book1.jpg', 'book2.jpg', 'book3.jpg']; // Replace with your correct order
 
-    images.forEach(image => {
-      image.addEventListener('dragstart', (e) => {
-        e.target.classList.add('dragging');
-      });
-    });
-    imageContainer.addEventListener('dragover', (e) => {
-      e.preventDefault();
-    });
 
-    imageContainer.addEventListener('drop', (e) => {
-      e.preventDefault();
-      const draggedImage = document.querySelector('.dragging');
-      const targetImage = e.target.closest('.image');
-      if (targetImage) {
-        imageContainer.insertBefore(draggedImage, targetImage);
-      } else {
-        imageContainer.appendChild(draggedImage);
-      }
-      draggedImage.classList.remove('dragging');
+images.forEach(image => {
+  image.addEventListener('dragstart', (e) => {
+    e.target.classList.add('dragging');
+  });
+});
+imageContainer.addEventListener('dragover', (e) => {
+  e.preventDefault();
+});
 
-      // Update the images variable to reflect the new order
-      images = document.querySelectorAll('.image');
+imageContainer.addEventListener('drop', (e) => {
+  e.preventDefault();
+  const draggedImage = document.querySelector('.dragging');
+  const targetImage = e.target.closest('.image');
+  if (targetImage) {
+    imageContainer.insertBefore(draggedImage, targetImage);
+  } else {
+    imageContainer.appendChild(draggedImage);
+  }
+  draggedImage.classList.remove('dragging');
 
-      const imageOrder = Array.from(images).map(image => image.src.split('/').pop());
-      console.log('Current image order:', imageOrder); // For debugging
+  // Update the images variable to reflect the new order
+  images = document.querySelectorAll('.image');
 
-      if (imageOrder.join('') === correctOrder.join('')) {
-        alert('Correct order!');
-      } else {
-        alert('Incorrect order!');
-      }
-    });
+  const imageOrder = Array.from(images).map(image => image.src.split('/').pop());
+  console.log('Current image order:', imageOrder); // For debugging
+});
 
-    images.forEach(image => {
-      image.addEventListener('dragstart', (e) => {
-        e.target.classList.add('dragging');
-      });
-    });
+images.forEach(image => {
+  image.addEventListener('dragstart', (e) => {
+    e.target.classList.add('dragging');
+  });
+});
 
-    checkOrderButton.addEventListener('click', () => {
-      console.log('Correct order:', correctOrder);
+checkOrderButton.addEventListener('click', () => {
+  console.log('Correct order:', correctOrder);
 
-      const imageOrder = Array.from(images).map(image => image.src.split('/').pop());
+  const imageOrder = Array.from(images).map(image => image.src.split('/').pop());
 
-      // Compare imageOrder and correctOrder here
+  // Compare imageOrder and correctOrder here
 
-      if (imageOrder.join('') === correctOrder.join('')) {
-        alert('Correct order!');
-      } else {
-        alert('Incorrect order!');
-      }
-    });
-  </script>
+  if (JSON.stringify(imageOrder) === JSON.stringify(correctOrder)) {
+    alert('Correct order!');
+  } else {
+    alert('Incorrect order!');
+  }
+});</script>
 </body>
 </html>
