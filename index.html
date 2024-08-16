@@ -1,7 +1,83 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>Image Order</title>
+    <style>
+    /* Reset rule (optional) */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    .image {
+      border: 2px solid white; /* Your desired border style */
+    }
+
+    .dragging {
+      z-index: 100; /* Adjust as needed */
+    }
+  </style>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+    <div class="image-container">
+        <img src="book1.jpg" draggable="true" class="image">
+        <img src="book2.jpg" draggable="true" class="image">
+		<img src="book3.jpg" draggable="true" class="image">
+        </div>
+    <button id="checkOrder">Check Order</button>
+    <script>const imageContainer = document.querySelector('.image-container');
+const checkOrderButton = document.getElementById('checkOrder');
+let images = document.querySelectorAll('.image');
+
+let correctOrder = ['book1.jpg', 'book2.jpg', 'book3.jpg']; // Replace with your correct order
+
+
+images.forEach(image => {
+  image.addEventListener('dragstart', (e) => {
+    e.target.classList.add('dragging');
+  });
+});
+imageContainer.addEventListener('dragover', (e) => {
+  e.preventDefault();
+});
+
+imageContainer.addEventListener('drop', (e) => {
+  e.preventDefault();
+  const draggedImage = document.querySelector('.dragging');
+  const targetImage = e.target.closest('.image');
+  if (targetImage) {
+    imageContainer.insertBefore(draggedImage, targetImage);
+  } else {
+    imageContainer.appendChild(draggedImage);
+  }
+  draggedImage.classList.remove('dragging');
+
+  // Update the images variable to reflect the new order
+  images = document.querySelectorAll('.image');
+
+  const imageOrder = Array.from(images).map(image => image.src.split('/').pop());
+  console.log('Current image order:', imageOrder); // For debugging
+});
+
+images.forEach(image => {
+  image.addEventListener('dragstart', (e) => {
+    e.target.classList.add('dragging');
+  });
+});
+
+checkOrderButton.addEventListener('click', () => {
+  console.log('Correct order:', correctOrder);
+
+  const imageOrder = Array.from(images).map(image => image.src.split('/').pop());
+
+  // Compare imageOrder and correctOrder here
+
+  if (JSON.stringify(imageOrder) === JSON.stringify(correctOrder)) {
+    alert('Correct order!');
+  } else {
+    alert('Incorrect order!');
+  }
+});</script>
 </body>
 </html>
